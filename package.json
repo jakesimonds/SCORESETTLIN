@@ -1,0 +1,26 @@
+{
+  "name": "irlscoresettlin",
+  "version": "1.0.0",
+  "description": "Score Settlin' - IRL betting on Celo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "bet": "node run-bet.js",
+    "fund": "node fund-contract.js",
+    "deploy": "node deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0",
+    "solc": "^0.8.30"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "hardhat": "^3.0.15"
+  },
+  "type": "module"
+}

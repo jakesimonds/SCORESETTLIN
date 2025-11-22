@@ -1,0 +1,3691 @@
+Events
+Plus New
+Packs
+Showcase
+Faucet
+Swag
+About
+
+Open user menu
+Avatar
+ETHGlobal Buenos Aires logo
+ETHGlobal Buenos Aires
+Overview
+Dashboard
+Project
+Team
+Mentors
+Info
+FAQ
+46 Prizes
+LayerZero logo
+LayerZero
+
+$20,000
+
+Pyth Network logo
+Pyth Network
+
+$20,000
+
+1inch logo
+1inch
+
+$20,000
+
+World logo
+World
+
+$20,000
+
+Uniswap Foundation logo
+Uniswap Foundation
+
+$20,000
+
+Coinbase logo
+Coinbase Developer Platform
+
+$20,000
+
+Filecoin logo
+Filecoin
+
+$20,000
+
+EVVM logo
+EVVM
+
+$20,000
+
+Protocol Labs logo
+Protocol Labs
+
+$20,000
+
+Chainlink logo
+Chainlink
+
+$15,000
+
+Chiliz logo
+Chiliz
+
+$10,000
+
+Oasis Protocol logo
+Oasis Protocol
+
+$10,000
+
+Zircuit logo
+Zircuit
+
+$10,000
+
+Nethermind logo
+Nethermind
+
+$10,000
+
+Flare Network logo
+Flare Network
+
+$10,000
+
+Hedera logo
+Hedera
+
+$10,000
+
+Ledger logo
+Ledger
+
+$10,000
+
+Avail logo
+Avail
+
+$10,000
+
+Polygon logo
+Polygon
+
+$10,000
+
+Circle logo
+Circle
+
+$10,000
+
+ENS logo
+ENS
+
+$10,000
+
+Fluence logo
+Fluence
+
+$10,000
+
+Saga  logo
+Saga
+
+$10,000
+
+Yellow logo
+Yellow
+
+$10,000
+
+Hyperlane logo
+Hyperlane
+
+$10,000
+
+Hardhat logo
+Hardhat
+
+$10,000
+
+Celo logo
+Celo
+
+$10,000
+
+Citrea logo
+Citrea
+
+$10,000
+
+The Graph logo
+The Graph
+
+$10,000
+
+Symbiotic logo
+Symbiotic
+
+$10,000
+
+0G logo
+0G
+
+$10,000
+
+Octav.fi logo
+Octav
+
+$10,000
+
+Anchorage Digital logo
+Anchorage Digital
+
+$10,000
+
+vlayer Labs  logo
+vlayer
+
+$10,000
+
+Self Protocol logo
+Self
+
+$10,000
+
+Ethereum Foundation logo
+Ethereum Foundation
+
+$6,000
+
+Circles logo
+Circles
+
+$5,000
+
+Rootstock Labs logo
+Rootstock
+
+$5,000
+
+Aztec Labs logo
+Aztec
+
+$5,000
+
+Privy  logo
+Privy
+
+$5,000
+
+Curvegrid logo
+Curvegrid
+
+$5,000
+
+Babylon Labs logo
+Babylon Labs
+
+$5,000
+
+Ronin logo
+Ronin
+
+$5,000
+
+sqd logo
+sqd
+
+$5,000
+
+Espresso Systems logo
+Espresso
+
+$5,000
+
+XMTP logo
+XMTP
+
+$5,000
+
+LayerZero logo
+LayerZero
+$20,000
+
+layerzero.network
+layerzero_core
+Open page →
+About
+LayerZero is a messaging protocol that connects 150+ blockchains, enabling seamless communication and value transfer between them. With Omnichain Fungible Tokens (OFTs), developers can make any token move natively across multiple chains without wrapped assets or fragmented liquidity. Using LayerZero’s SDKs and smart contract templates, hackers can build omnichain DeFi protocols, cross-chain services, and interoperable applications.
+Prizes
+🏆 Best Omnichain Implementation ⸺ $20,000
+🥇
+1st place
+$13,000
+🥈
+2nd place
+$6,250
+🥉
+Best Developer Feedback
+$750
+Build the best omnichain application using LayerZero’s cross-chain messaging protocol and Omnichain Fungible Token (OFT) standard. Projects should demonstrate seamless token or data movement across multiple blockchains. Whether it’s a DeFi protocol, game, NFT marketplace, or novel cross-chain tool, the most innovative and technically sound implementations of LayerZero’s architecture will win. Judges will evaluate creativity, functionality, and how effectively the project leverages omnichain interoperability.
+Qualification Requirements
+To qualify for the Best Omnichain Implementation track, participants must adhere to the following criteria:
+1. Interact with the LayerZero Endpoint contract using either the LayerZero Contracts Library or your own custom integration to send / receive a cross-chain message.
+2. Extend the Base Contract Logic: It's not sufficient to simply inherit the OApp / OFT / Endpoint interface contracts; the developer must also extend it. This means adding new functionalities, features, or optimizations that create new cross-chain use cases. The extension should demonstrate innovation and an advanced understanding of the LayerZero tech-stack.
+3. Working Demo: Hackathons have a tough time crunch, and we respect you all for learning to work with our tools so fast! Please focus on having the core contract working, and clean the rest up after.
+4. Feedback Form:When hacking, hard to use, buggy, or confusing documentation and tooling can ruin your experience! Please take the time to submit any feedback that you think might be useful for how we can improve your lives when building on LayerZero! The best feedback submission will win $750! Please submit using the form linked under "Resources".
+
+Workshop
+Send Tokens and Call Anything Cross-Chain
+Discover how LayerZero’s OFT (Omnichain Fungible Token) standard enables developers to build seamless cross-chain e...
+
+This workshop is happening in-person
+06:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 2
+
+Pyth Network logo
+Pyth Network
+$20,000
+
+pyth.network
+pythnetwork
+Open page →
+About
+Pyth Network provides real-time financial market data to smart contracts across over 100 blockchains. Developers can access high-frequency price feeds for crypto, equities, FX, and commodities, as well as request secure, verifiable random numbers using Pyth Entropy. At the event, hackers can leverage Pyth’s data feeds to power DeFi protocols, on-chain games, prediction markets, or any app that depends on accurate external data.
+Prizes
+⛓️ Most Innovative use of Pyth pull price Feeds ⸺ $10,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$2,500
+🥉
+3rd place
+$2,000
+🏅
+4th place
+$1,000
+🏅
+5th place
+$500
+Use Pyth Pull oracle to power up you dapp. The prize will go to the top three teams with best and most innovative use of Pyth Price feeds.
+Please read the qualification requirements carefully.
+Qualification Requirements
+Qualification Requirements
+Your app should use Pyth price feeds via Pull method. The steps include.
+1. Pull/Fetch the data from Hermes. (Check the links and Resources)
+2. Update the data on chain using updatePriceFeeds method.
+3. Consume the price.
+4. You can run a price pusher too if you prefer traditional way of using oracles. (Optional)
+Please follow our comprehensive Pyth EVM guide to to integrate Pyth in less than 5 minutes.
+
+Links and Resources
+Pyth EVM guide
+https://docs.pyth.network/price-feeds/core/use-real-time-data/pull-integration/evm
+↗
+Pyth contract API Reference
+https://api-reference.pyth.network/price-feeds/evm/getPriceNoOlderThan
+↗
+How to fetch data from Hermes
+https://docs.pyth.network/price-feeds/core/fetch-price-updates
+↗
+Pyth Dev Forum
+https://dev-forum.pyth.network/
+↗
+EVM Error codes
+https://docs.pyth.network/price-feeds/core/error-codes/evm
+↗
+Pyth supported price feeds
+https://docs.pyth.network/price-feeds/core/price-feeds/price-feed-ids
+↗
+Pyth supported Chains
+https://docs.pyth.network/price-feeds/core/contract-addresses/evm
+↗
+🎲 Pyth Entropy Pool Prize ⸺ $5,000
+Split evenly between all qualifying projects
+Use Pyth Entropy to generate and consume random number on chains. Anyone can permissionless generate random number on-chain. This pool prize will be given to most Innovative apps to use Pyth Entropy.
+Qualification Requirements
+Your app should consume random number generated by Pyth. Please follow along the guides and Tutorials to get started.
+NOTE: To get qualified for this track, raise a PR in https://github.com/pyth-network/pyth-examples. You just have to submit the working code along with a detailed README of your project.
+
+Links and Resources
+Pyth Entropy EVM guide
+https://docs.pyth.network/entropy/generate-random-numbers/evm
+↗
+Pyth Entropy Examples
+https://github.com/pyth-network/pyth-examples/tree/main/entropy
+↗
+Pyth Entropy Contract Address
+https://docs.pyth.network/entropy/contract-addresses
+↗
+Pyth Entropy Best Practices
+https://docs.pyth.network/entropy/best-practices
+↗
+🔮 Best use of Pyth Entropy ⸺ $5,000
+Up to 4 teams will receive $1,250
+Use Pyth Entropy to generate and consume random number on chains. Anyone can permissionless generate random number on-chain. This pool prize will be given to most Innovative apps to use Pyth Entropy.
+Qualification Requirements
+Your app should consume random number generated by Pyth. Please follow along the guides and Tutorials to get started.
+NOTE: To get qualified for this track, raise a PR in https://github.com/pyth-network/pyth-examples. You just have to submit the working code along with a detailed README of your project.
+
+Links and Resources
+Pyth Entropy EVM guide
+https://docs.pyth.network/entropy/generate-random-numbers/evm
+↗
+Pyth Entropy Examples
+https://github.com/pyth-network/pyth-examples/tree/main/entropy
+↗
+Pyth Entropy Contract Address
+https://docs.pyth.network/entropy/contract-addresses
+↗
+Pyth Entropy Best Practices
+https://docs.pyth.network/entropy/best-practices
+↗
+Resources
+Pyth EVM guide
+https://docs.pyth.network/price-feeds/core/use-real-time-data/pull-integration/evm
+↗
+Pyth Supported Price Feeds
+https://docs.pyth.network/price-feeds/core/price-feeds
+↗
+Pyth Supported Chains
+https://docs.pyth.network/price-feeds/core/contract-addresses/evm
+↗
+Pyth EVM API Reference
+https://api-reference.pyth.network/price-feeds/evm/getPriceNoOlderThan
+↗
+How to Fetch Price Updates
+https://docs.pyth.network/price-feeds/core/fetch-price-updates
+↗
+EVM Error Codes
+https://docs.pyth.network/price-feeds/core/error-codes/evm
+↗
+Pyth Dev Forum
+https://dev-forum.pyth.network/
+↗
+Pyth's Hackathon Judging Criteria and Rubric - Price Feeds
+https://pyth-network.notion.site/Hackathon-Judging-Criteria-1fb2eecaaac980019603d905057e2f84
+↗
+Pyth's Hackathon Judging Criteria and Rubric - Entropy
+https://pyth-network.notion.site/Hackathon-Judging-Criteria-Entropy-2032eecaaac9808e9361cc6a7df2a649?pvs=73
+↗
+Workshop
+🛠️ Learn how to Pull Prices and consume Rand...
+Pulling the Prices you deserve.
+
+This workshop is happening in-person
+06:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+1inch logo
+1inch
+$20,000
+
+1inch.com
+1inch
+Open page →
+About
+1inch provides a suite of powerful tools that enable developers to build smooth DeFi experiences on Ethereum, Ethereum L2s, and side chains. Hackers can utilize our open-source SDKs, smart contract protocols, and robust APIs to build onchain applications.
+Prizes
+💧 Build an Aqua App ⸺ $17,000
+🥇
+1st place
+$7,000
+🥈
+2nd place
+$4,000
+🥉
+3rd place
+$3,000
+🏅
+4th place
+$2,000
+🏅
+5th place
+$1,000
+Create a custom Aqua app based on SwapVM that implements a sophisticated DeFi position. You may modify SwapVM opcodes and define your own instructions. The final positions must be demonstrated through tests, scripts or UI.
+Examples:
+- Leverage
+- AMM
+- Lending
+- Options
+Qualification Requirements
+Requirements**:
+- SwapVM is used to power Aqua app
+- Onchain execution of token transfers should be presented during the final demo
+- Proper Git commit history (no single-commit entries on the final day)
+
+Links and Resources
+1inch Hackathon Guide
+https://hackathon.1inch.community
+↗
+The Art of AMM - Workshop by Anton Bukov [1inch]
+https://youtu.be/bdhba23BEzg?si=hPbmeWmA5RaYDRZB
+↗
+💻 Utilize 1inch APIs ⸺ $3,000
+Up to 3 teams will receive $1,000
+Utilize 1inch's infrastructure to help build your application
+- Build with our swap protocols (1inch Cross-chain Swap (Fusion+), Intent-based Swap (Fusion), Classic Swap, limit order protocol)
+- Build with any of our data APIs (price feeds API, wallet balances API, token metadata API, and many more)
+- Use our Web3 API to interact with the blockchain
+Qualification Requirements
+Requirements:
+- Your project uses at least one 1inch API to provide meaningful functionality for your users
+- Proper Git commit history (no single-commit entries on the final day)
+Judging Criteria:
+- Practicality and usefulness
+- Code quality/completeness
+
+Links and Resources
+1inch Hackathon Guide
+https://hackathon.1inch.community
+↗
+Resources
+1inch Hackathon Guide
+https://hackathon.1inch.community
+↗
+Workshop
+The Art of AMM
+A deep-dive workshop into 1inch Aqua — the shared liquidity protocol set to transform DeFi. Anton shows how its op...
+
+This workshop is happening in-person
+06:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 1
+
+Jobs
+
+Quality Assurance Engineer
+1inch
+→
+
+Senior Frontend Engineer [Angular]
+1inch
+→
+
+Blockchain Engineer at 1inch
+1inch
+→
+World logo
+World
+$20,000
+
+world.org
+worldcoin
+Open page →
+About
+Building a mini app means you will get instant exposure to the 23 million World App users. All World App users already have an integrated wallet and free transaction fees on World Chain (part of the super chain). We will be working closely with teams that want to build a real app reaching millions of people this weekend.
+To be considered for the Mini App bounties you MUST use any of the Minikit SDK commands found on our docs. Learn more: https://www.youtube.com/watch?v=QJ0htHP6lb0
+Prizes
+📲 Best Mini App ⸺ $17,000
+🥇
+1st place
+$6,500
+🥈
+2nd place
+$4,500
+🥉
+3rd place
+$2,000
+🏅
+Honorable Mention
+$1,000 ×4
+Show us your best Mini Apps! Projects that build and deploy a Mini App using MiniKit are eligible for this prize.
+Qualification Requirements
+- build a Mini App with MiniKit
+- integrate any of the MiniKit SDK Commands
+- if your Mini App uses on-chain activity, deploy your contracts to World Chain
+- your project must not be gambling or chance based
+- proof validation is required and needs to occur in a web backend or smart contract
+
+Links and Resources
+Mini App Documentation
+https://docs.world.org/mini-apps
+↗
+🏊 World Pool Prize ⸺ $3,000
+Split evenly between all qualifying projects
+This pool prize is for all projects that build within the World ecosystem (and don't receive another prize from World)!
+Qualification Requirements
+- make a good-faith effort to integrate World ID, build a Mini App, and/or build on World Chain
+- your project must not be gambling or chance based
+
+Links and Resources
+World Docs
+https://docs.world.org/
+↗
+Resources
+World ID Docs
+https://docs.world.org/world-id
+↗
+World Chain Docs
+https://docs.world.org/world-chain
+↗
+Mini App Docs
+https://docs.world.org/mini-apps
+↗
+How to Build a Mini App
+https://www.youtube.com/watch?v=QJ0htHP6lb0
+↗
+Workshop
+Mini Apps FTW
+Learn how to build scalable and viral mini apps that solve real world use cases!
+
+This workshop is happening in-person
+05:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 1
+
+Uniswap Foundation logo
+Uniswap Foundation
+$20,000
+
+uniswapfoundation.org
+uniswapfnd
+Open page →
+About
+Uniswap v4 introduces Hooks, smart contracts that let developers customize swap fees, liquidity logic, and trading behavior at the protocol level. We’re calling on builders to create with Hooks across stable-asset and volatile-asset markets, and to reimagine how liquidity and trading dynamics can evolve within the Uniswap ecosystem.
+Prizes
+💡 Uniswap v4 Stable-Asset Hooks ⸺ $10,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$2,000 ×2
+🥉
+3rd place
+$1,000 ×2
+Build Uniswap v4 Hooks designed for stable-asset markets. Projects should explore novel applications of Hooks for synthetic lending, credit-backed trading, or optimized stable AMM logic.
+Qualification Requirements
+A user interface is not required, but projects must provide clear evidence of functional code.
+Each team must submit: TxID transactions (tesnet and/or mainnet) a GitHub repository, README.md, demo link or setup instructions, and a demo video (max 3 min).
+
+Links and Resources
+Uniswap Foundation Hacker Toolkit
+https://uniswap.notion.site/ethglobal-buenosaires
+↗
+🪝 Uniswap v4 Volatile-Pairs Hooks ⸺ $10,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$2,000 ×2
+🥉
+3rd place
+$1,000 ×2
+Build Uniswap v4 Hooks designed for volatile asset pairs. Projects should explore innovative Hook logic that enhances liquidity resilience, mitigates Loss Versus Rebalancing (LVR), or improves capital efficiency for volatile asset pairs.
+Qualification Requirements
+A user interface is not required, but projects must provide clear evidence of functional code.
+Each team must submit: TxID transactions (testnet and/or mainnet), a GitHub repository, README.md, demo link or setup instructions, and a demo video (max 3 min).
+
+Links and Resources
+Uniswap Foundation Hacker Toolkit
+https://uniswap.notion.site/ethglobal-buenosaires
+↗
+Resources
+Uniswap Documentation
+https://docs.uniswap.org/
+↗
+Uniswap v4 Started Kit
+https://github.com/uniswapfoundation/v4-template
+↗
+Uniswap Foundation Builder Page
+https://www.uniswapfoundation.org/build
+↗
+Open Zeppelin Hooks Library
+https://docs.openzeppelin.com/uniswap-hooks
+↗
+Coinbase Developer Platform logo
+Coinbase Developer Platform
+$20,000
+
+coinbase.com
+coinbasedev
+Open page →
+About
+Coinbase Developer Platform (CDP) is the unified access point for all builders to leverage Coinbase's trusted crypto infrastructure. We provide the essential APIs and SDKs across payments, trading, wallets, stablecoins, and powerful onchain tools, making it simpler than ever to bring the world onchain with enterprise-grade reliability and scale. Build the future with the infrastructure powering millions of crypto users.
+Prizes
+💙 Build a Great Onchain App Using CDP ⸺ $20,000
+Up to 4 teams will receive $5,000
+We’re looking for high-quality onchain apps that use at least one of the following CDP tools:
+✅ CDP Embedded Wallets (for end-users)
+✅ CDP Server Wallets (for AI agents)
+✅ CDP Trade API for onchain swaps
+✅ CDP Data APIs (SQL API, token balances, web-hooks)
+✅ x402 with CDP Facilitator
+✅ Coinbase Pay (fka Coinbase Commerce) for onchain payment acceptance
+Bonus points for:
+- Using more than one of our products
+- Sharing your project on X and tagging @CoinbaseDev
+- Giving us high-quality feedback on what worked well, and how we can improve
+Qualification Requirements
+🔍 What We’re Looking For
+Product Quality: Is it well-built, useful, and polished? Would someone actually use this?
+Use of CDP: Higher scores for using more CDP tools, but you only need one to qualify
+Developer feedback: Did you give thoughtful feedback on what worked well, and how CDP can improve?
+Social signal: Did you share your project on X and tag @CoinbaseDev? Bonus points for good storytelling or reach!
+We’re looking for high-quality onchain apps that use at least one of the following CDP tools:
+✅ CDP Embedded Wallets (for end-users)
+✅ CDP Server Wallets (for AI agents)
+✅ CDP Trade API for onchain swaps
+✅ CDP Data APIs (SQL API, token balances, web-hooks)
+✅ x402 with CDP Facilitator
+✅ Coinbase Pay (fka Coinbase Commerce) for onchain payment acceptance
+
+Links and Resources
+CDP Documentation
+https://docs.cdp.coinbase.com/
+↗
+Workshop
+Building With x402: Agents, Paid APIs, & Embe...
+A hands-on crash course on x402 and CDP Embedded Wallets. You'll learn how to spin up agents that pay with x402, cr...
+
+This workshop is happening in-person
+06:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 5
+
+Filecoin logo
+Filecoin
+$20,000
+
+filecoin.io
+filecoin
+Open page →
+About
+Filecoin Onchain Cloud is shaping the future of the cloud. It offers fast, reliable decentralized storage and retrieval, bringing the Filecoin network closer to application builders.
+Developers can access Filecoin Onchain Cloud services with the developer-friendly JS/TS library - Synapse SDK, which provides hot storage and fast retrieval, as well as stablecoin payment rails.
+Prizes
+💾 Best storage innovation with Filecoin Onchain Cloud ⸺ $10,000
+🥇
+1st place
+$5,000
+🥈
+2nd place
+$3,500
+🥉
+3rd place
+$1,500
+For this price, we would love to see applications built around decentralized storage itself using Filecoin Onchain Cloud.
+Build a next-generation storage-native application using Filecoin Onchain Cloud. Think beyond uploading files — create something that showcases Filecoin as the programmable storage layer for Web3. This could include verifiable data sharing, dataset marketplaces, decentralized AI training data, on-chain file publishing, or new retrieval and warm-storage services.
+Qualification Requirements
+1. Your project must use Synapse SDK or Filecion Pin in a meaningful way (storage, retrieval, or payment).
+2. Your project must deploy to the Filecoin Calibration Testnet.
+3. Must include a working demo (frontend or CLI).
+4. Open-source code submitted via GitHub.
+
+👾 Best dApps powered by Filecoin Onchain Cloud ⸺ $10,000
+🥇
+1st place
+$5,000
+🥈
+2nd place
+$3,500
+🥉
+3rd place
+$1,500
+For this price, we are looking for dApps built on any blockchain to leverage the Filecoin Onchain Cloud for decentralized storage needs.
+Use Filecoin Onchain Cloud to power any dApps that need decentralized storage, even if it’s not storage-centric. Whether you’re building an AI project, a social dApp, an NFT marketplace, a gaming platform, or a DeFi app — integrate Filecoin to store and retrieve essential data like metadata, assets, or proofs in a decentralized way. Show the world how decentralized storage unlocks new reliability and transparency for your dApp.
+Qualification Requirements
+1. Your project must use Synapse SDK or Filecoin Pin in a meaningful way to access the Filecoin Onchain Cloud.
+2. Must include a working demo (frontend or CLI).
+3. Open-source code submitted via GitHub.
+
+Resources
+Filecoin Onchain Cloud
+https://www.filecoin.cloud/
+↗
+Synapse SDK
+https://github.com/FilOzone/synapse-sdk
+↗
+Filecon Pin docs
+https://docs.filecoin.io/builder-cookbook/filecoin-pin
+↗
+Synapse SDK Demo
+https://github.com/FIL-Builders/fs-upload-dapp
+↗
+Filecoin Onchain Cloud Documentation
+https://docs.filecoin.cloud/
+↗
+Workshop
+Filecoin 🛠️ Building with the Filecoin Oncha...
+Roll up your sleeves for a hands-on dive into the Filecoin Onchain Cloud stack. You’ll explore the cryptographic fo...
+
+This workshop is happening in-person
+02:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+EVVM logo
+EVVM
+$20,000
+
+evvm.org
+rollamate
+Open page →
+About
+EVVM let's anyone create Virtual Blockchains on top of any chain just deploying smart contracts. Basically it's an infra-less abstract blockchain inside any blockchain!
+
+You can use any existing network like Ethereum, Polygon, CELO, Hedera and others.
+
+Just use the MATE Metaprotocol (our EVVM testnet) or spin up your own virtual blockchain environment by simply deploying our smart contracts, instead of running a whole new network (infra, consensus, distribution, etc). We offer one-command deployment tools, npm packages, a fully Scaffold-EVVM and more tooling ready to use!
+
+Using the EVVM you have the benefits of a custom blockchain, easy to modify and without managing physical infrastructure: no validators or dedicated nodes!.
+
+When an EVVM instance runs on any chain (as set of Solidity contracts) it abstracts the core components of a blockchain, inheriting the security of the underlying chain. A "blockchain within a blockchain", similar to a virtual machine in computing, like VMWare and VirtualBox.
+
+We are looking for any novel use cases, including: Gasless Payments, Custom Native Tokens, Improve x402 & ERC-8004 capabilities and more.
+
+Developers can also use EVVM as a sandbox to experiment with new features or Ethereum improvements (like testing new opcodes or economic models) in an controled environment, without affecting the main chain.
+
+Are you ready to be part of the future of Ethreum?
+Testnet MATE Metaprotocol. use for testing or integrations in an already deployed EVVM:
+Sepolia EVVM:
+EVVM ID: 2
+0x9902984d86059234c3B6e11D5eAEC55f9627dD0f
+
+Sepolia MATE Staking:
+0x2FE943eE9bD346aF46d46BD36c9ccb86201Da21A
+
+Sepolia NameService:
+0x93DFFaEd15239Ec77aaaBc79DF3b9818dD3E406A
+Treasury Address:
+0x213F4c8b5a228977436c2C4929F7bd67B29Af8CD
+P2P Swap Address:
+0xC175f4Aa8b761ca7D0B35138969DF8095A1657B5
+
+Faucet Sepolia $MATE:
+1. EVVM Devs Group: https://t.me/EVVMorg
+2. Self-service: https://evvm.dev
+Prizes
+⚡️ Best integration using the MATE Metaprotocol ⸺ $7,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+🥉
+3rd place
+$1,250
+🏅
+4th place
+$1,000
+🏅
+5th place
+$750
+Connect your project with the MATE Metaprotocol (our official EVVM tesnet deployed on Sepolia) with a x402 agents OR make your dApp.
+1. Using 'async nonces' and 'executor' is a plus.
+2. Optionally integrate any of the available services and other functionalities: MATE NameService, MATE Staking, p2p Swap, etc.
+Qualification Requirements
+You must use the official MATE Metaprotocol deployed on Sepolia or any of its official services.
+
+Links and Resources
+EVVM Telegram Devs Group
+https://t.me/EVVMorg
+↗
+$MATE Sepolia Faucet
+https://evvm.dev
+↗
+🎣 Novel EVVM Fisher/Relayer ⸺ $5,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,000
+🥉
+3rd place
+$750
+🏅
+4th place
+$500
+🏅
+5th place
+$250
+Capture and/or Receive transactions and execute them in an EVVM. If you feel confident, try to do something legendary, something out of the box with fishing spots and fishers!
+Qualification Requirements
+For this implementation you can deploy your own EVVM or use the MATE Metaprotocol (our testnet EVVM already deployed on Sepolia).
+
+Links and Resources
+EVVM Telegram Devs Group
+https://t.me/EVVMorg
+↗
+$MATE Sepolia Faucet
+https://evvm.dev
+↗
+⚙️ Your custom Service or EVVM Chain ⸺ $5,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,000
+🥉
+3rd place
+$750
+🏅
+4th place
+$500
+🏅
+5th place
+$250
+Create a new EVVM Service or a cusotmized EVVM that you believe is needed today. Check the Mate NameService, p2p Swap and Staking as references and/or starting point. We are looking forward to see more Services and customized chains related to -gasless- Retail, -async- DeFi, Governance, Institutions (Gov, Schools, Librares, etc) and Gaming.
+Qualification Requirements
+For this implementation you can deploy your own custom EVVM or use the MATE Metaprotocol (our testnet EVVM already deployed on Sepolia).
+
+Links and Resources
+EVVM Telegram Devs Group
+https://t.me/EVVMorg
+↗
+$MATE Sepolia Faucet
+https://evvm.dev
+↗
+⭐️ Use the MATE Metaprotocol ⸺ $2,500
+Split evenly between all qualifying projects
+Make your project interact in a meaningful way with the MATE Metaprotocol (our official EVVM tesnet and/or Servces deployed on Sepolia) or its ecosystem.
+Sepolia EVVM (upgrade Nov 17th):
+0xF817e9ad82B4a19F00dA7A248D9e556Ba96e6366
+
+Sepolia MATE Staking (upgrade Nov 17th):
+0x8eB2525239781e06dBDbd95d83c957C431CF2321
+
+Sepolia NameService (upgrade Nov 17th):
+0x8038e87dc67D87b31d890FD01E855a8517ebfD24
+Qualification Requirements
+You must use the official MATE Metaprotocol deployed on Sepolia or any of its official services.
+
+Links and Resources
+EVVM Telegram Devs Group
+https://t.me/EVVMorg
+↗
+$MATE Sepolia Faucet
+https://evvm.dev
+↗
+📝 Feeback on EVVM or MATE Metaprotocol ⸺ $500
+Up to 5 teams will receive $100
+Give us a feedback, could be on the product, tooling, documentation, workshops or any other related to the EVVM, the MATE Metaaprotocol desgn, the vailable Services or recommendations for new ones!
+Qualification Requirements
+Send the feedback with your project name using the Feedback Input in the ETHGlobal Project Submission form.
+
+Links and Resources
+EVVM Telegram Devs Group
+https://t.me/EVVMorg
+↗
+Resources
+Tooling & Frontend Templates
+https://evvm.dev
+↗
+Documentation
+https://evvm.info
+↗
+Website
+https://evvm.org
+↗
+QuickStart
+https://www.evvm.info/docs/QuickStart
+↗
+Workshop for Beginners
+https://www.youtube.com/watch?v=uBjvoH5tpJk
+↗
+Whats the EVVM? - ETHPragma Talk
+https://www.youtube.com/watch?v=7eJ4WEoi-_s
+↗
+Github Repo
+https://github.com/EVVM-org
+↗
+Workshop
+🛠️ Virtual Blockchains in 60 Seconds: Expert...
+Hands-on quickstart + tips for shipping virtual blockchains at hackathons, including the EVVM Full Documentation fo...
+
+This workshop is happening in-person
+05:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 2
+
+Protocol Labs logo
+Protocol Labs
+$20,000
+
+protocol.ai
+protocollabs
+Open page →
+About
+Welcome, builder.
+Protocol Labs is here to fund the bold and the ambitious, the “this shouldn’t work but what if it does?” experiments across the open internet.
+We’re putting up 20,000 USDC across four challenge tracks. You get one shot per track, winner-takes-all. Bring your best.
+Prizes
+🌎 Secure, Sovereign Systems ⸺ $5,000
+What we’re looking for:
+Tools that make the internet harder to kill, censor, or compromise.
+If it makes Big Brother sweat even a little, you’re on the right track.
+Examples (but don’t limit yourself):
+P2P networking magic
+Zero-knowledge usage protecting PII
+Auth systems without a single point of trust
+Privacy-preserving messaging
+Post-quantum experiments for the future dystopia we might get stuck in
+Judges want:
+Clever architecture
+Clean implementation
+A real contribution to a sovereign internet
+Qualification Requirements
+👉 Submission requirements
+Use any tech stack you want
+Submit to the ETH Global portal and here: https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+
+Links and Resources
+PL_Genesis Hackathon Submission
+https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+↗
+🤖 AI & Autonomous Infrastructure ⸺ $5,000
+What we’re looking for:
+Infra for agents, AI systems, and verifiable pipelines that don’t rely on black boxes or centralized gatekeepers.
+Examples:
+Agents powered by open data
+Verifiable inference pipelines
+IPFS-native model storage
+Evaluation tools with provenance baked in
+Multi-agent sandboxing
+Judges want:
+Something useful
+A clear link between AI and open infra
+Strong technical decisions
+Qualification Requirements
+👉 Submission requirements
+Use any tech stack you want
+Submit here to the ETH Global portal and here: https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+
+Links and Resources
+PL_Genesis Hackathon Submission
+https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+↗
+🧑‍🤝‍🧑 Decentralized Economies, Incentives & Governance ⸺ $5,000
+What we’re looking for:
+Coordination, incentives, governance, and economic toys that rewire how groups make decisions on the internet.
+Think: “If a DAO and a Nash equilibrium had a baby.”
+Examples:
+Reputation systems that don’t rug you
+Incentive engines, e.g. using hypercerts
+Sustainable public goods funding mechanisms
+Governance dashboards that don’t suck
+Impact monitoring and prediction at scale
+A rigorous mechanism evaluation benchmark
+Judges want:
+A clever mechanism
+Something real people (or bots) would use
+A design backed with evidence
+Qualification Requirements
+Use any tech stack you want
+Submit to the ETH Global portal and here: https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+
+Links and Resources
+PL_Genesis Hackathon Submission
+https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+↗
+📈 Open Data, Knowledge Graphs & Research Infra ⸺ $5,000
+What we’re looking for:
+Anything that lets researchers, builders, and weirdos collaborate with open data instead of hiding it behind walled gardens.
+Examples:
+Tools for scientific collaboration
+Knowledge graph builders
+Research indexing / visualization
+IPFS-linked data workflows
+DeSci-friendly infra
+Hypercerts for research artifacts
+Judges want:
+A real “oh, this could be huge” moment
+Strong use of open storage or distributed infra
+A clean UX for researchers
+Qualification Requirements
+👉 Submission requirements
+Use any tech stack you want
+Submit to the ETH Global portal and here: https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+
+Links and Resources
+PL_Genesis Hackathon Submission
+https://pl-genesis-frontiers-of-collaboration-hackathon.devspot.app
+↗
+Workshop
+Protocol Labs Challenges Q&A
+Ask us Anything as about building the future. Informal session to get idea feedback and learn about what we're look...
+
+This workshop is happening in-person
+05:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+Chainlink logo
+Chainlink
+$15,000
+
+chain.link
+chainlink
+Open page →
+About
+Build using Chainlink during ETHGlobal Buenos Aires!
+Total Prizes:
+- Connect the World with Chainlink: Total 3 teams
+- Best workflow with Chainlink CRE: Total 3 teams
+Prizes
+🌎 Connect the World with Chainlink ⸺ $6,000
+Up to 3 teams will receive $2,000
+Build something awesome using Chainlink! Anything that came from the Chainlink Documentation counts - using CCIP, Price Feeds, Data Streams, PoR or VRF.
+Note: Please use CRE instead of using Chainlink Functions or Automation. These products will be deprecated, and any project that needs this type of functionality should use CRE instead.
+Qualification Requirements
+Requirements:
+- Each project must use a Chainlink service in some form to make a state change on a blockchain, otherwise it will not be eligible for the Chainlink core prizes. This means that a front end simply reading from Chainlink Data Feeds doesn't count. Using Chainlink inside your smart contracts is required.
+- While all project submissions are evaluated holistically, there will be bonus points given to projects that use multiple Chainlink services in a meaningful way.
+- Please let us know how you use Chainlink in the project description.
+
+Links and Resources
+Chainlink Documentation
+http://docs.chain.link
+↗
+🔗 Best workflow with Chainlink CRE ⸺ $9,000
+Up to 3 teams will receive $3,000
+Build your first workflow with CRE! Chainlink Runtime Environment (CRE) is an all-in-one orchestration layer that enables developers to build institutional-grade smart contracts — data-connected, compliance-ready, privacy-preserving, and interoperable across blockchains and traditional systems. With CRE, you can connect blockchains to external APIs, enterprise systems, data sources, LLMs, or AI agents.
+Using the CRE SDK (available in Go and TypeScript), you’ll build Workflows — modular programs that orchestrate logic across on-chain and off-chain environments. With the CRE CLI, you can compile, simulate, and deploy these workflows to CRE, where they run on a Decentralized Oracle Network (DON) for fault-tolerant execution.
+Qualification Requirements
+Requirements:
+✅ Goal:
+Build, simulate, or deploy a CRE Workflow that’s used as an orchestration layer within your project.
+✅ Your workflow should:
+- Integrate at least one blockchain with an external API, system, data source, LLM, or AI agent.
+- Demonstrate a successful simulation (via the CRE CLI) or a live deployment on the CRE network.
+- Be meaningfully used in your project
+💡 If you show us a successfully simulated workflow execution, our team will deploy it to the live CRE network for you during the hackathon!
+
+Links and Resources
+CRE Documentation
+https://docs.chain.link/cre
+↗
+Workshop
+🛠️ Build your first workflow with CRE
+Build your first workflow with CRE! Chainlink Runtime Environment (CRE) is the all-in-one orchestration layer unloc...
+
+This workshop is happening in-person
+06:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+Chiliz logo
+Chiliz
+$10,000
+
+chiliz.com
+chiliz
+Open page →
+About
+Chiliz is a Layer-1 EVM-compatible blockchain purpose-built for sports and entertainment applications. Designed to enable frictionless fan engagement at scale, Chiliz Chain supports full Solidity compatibility, allowing developers to deploy any existing Ethereum-based smart contracts, tools, or protocols with zero friction.
+Prizes
+🏈 The Future of Fan Ownership ⸺ $5,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$2,000
+Prize Track: Fan Ownership
+Build apps that give fans true ownership — not just engagement — in their favorite clubs, creators, or moments. From dynamic NFTs and tokenized memberships to fan-governed DAOs and AI-powered fan identities, this track rewards projects that turn passion into real participation and value.
+Ideas to inspire hackers:
+- Tokenized membership or loyalty passes that evolve with engagement.
+- Dynamic NFTs that track a fan’s journey or “season stats.”
+- Tools for creators or athletes to issue personalized tokens.
+- Fan-powered DAOs or governance dashboards for clubs. (Can use AragonDAO)
+- AI agents that represent a fan’s digital legacy or fandom identity. (Can use ElizaOS)
+Qualification Requirements
+Contracts Deployed and/or app transactions happening on Spicy Testnet or Chiliz Chain Mainnet
+
+⚡ SportsFi & Real-World Yield ⸺ $5,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$2,000
+Prize Track: Sports x DeFi
+Build DeFi that bridges the on-chain and off-chain sports economy. From athlete-backed tokens and predictive staking systems to yield models tied to match performance or fan engagement, this track rewards projects that turn fandom into financial participation — where fans, clubs, and creators share real on-chain value.
+Ideas to inspire hackers:
+- On-chain fantasy staking systems (predictive + yield).
+- Tokenized sports tickets as collateral or tradable assets.
+- DeFi-driven ticketing or real-world yield use cases
+- LP pools tied to fan token performance or match outcomes.
+- DeFi primitives that reward community contributions (watch-to-earn, play-to-support).
+- Real-world athlete or club revenue tokenization.
+- Fan-funded infrastructure or decentralized sponsorship systems
+Qualification Requirements
+Contract deployed and/or transactions happening on Spicy Testnet or Chiliz Chain Mainnet
+
+Resources
+Chiliz Chain Docs
+https://docs.chiliz.com
+↗
+Faucet
+https://spicy-faucet.chiliz.com
+↗
+Telegram Group
+https://t.me/BuildOnChiliz
+↗
+Workshop
+Intro to Chiliz and the Chiliz Chain
+Join us for a live introduction to Chiliz and the Chiliz Chain, the Web3 infrastructure built for sports and entert...
+
+This workshop is happening in-person
+04:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+Oasis Protocol logo
+Oasis Protocol
+$10,000
+
+oasis.net
+oasisprotocol
+Open page →
+About
+Oasis technology provides everything you need for verifiable, confidential compute. It is designed to support all your needs either onchain via Sapphire or offchain via ROFL leveraging Trusted Execution Environments (TEEs). It is completely chain agnostic and creates the optimal environment for building and running DeFi, AI, RWA and many other applications in different sectors that need high integrity, security and privacy.
+Prizes
+🏆 Build with Oasis ⸺ $10,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$3,000
+🥉
+3rd place
+$1,500
+🏅
+4th place
+$1,000
+🏅
+5th place
+$500
+What to build:
+ROFL (Runtime Off-chain Logic) apps run inside a Trusted Execution Environment (TEE). They rely on Sapphire for registration, billing, virtual machine management, and secure storage of secrets and configuration. Execution with ROFL takes place entirely off-chain, making it ideal for compute-intensive or always-on services such as secure decentralized oracles, bridges, AI agents, LLM chatbots, and more. Redundancy is possible with native support for replicas. Apps running with ROFL can also access its integrated key management service, allowing Sapphire smart contracts to verify that a transaction was genuinely signed from within the TEE. Additionally you can add multisig admin control over your apps deployed with ROFL for higher integrity.
+Please note: The Oasis Foundation reserves the right to adjust the reward structure based on the quality and relevance of the submissions received.
+Qualification Requirements
+Demo video up to three minutes long
+A text description explaining the features and functionality of your project
+An open-source Github repository with a complete README
+A way to test the project, including a link to the app or testing instructions
+Complete the submission form by the final deadline
+Optional: Present your hack at the booth that you don’t get overlooked
+
+Links and Resources
+Ideas to get started and judging criteria
+https://docs.google.com/document/d/1zVyAu3ivkZvTej5RSAUc5BkhHB0GFE-yG1Jh7DmQhdg/edit?tab=t.0
+↗
+Resources
+Oasis Cheatsheet
+https://drive.google.com/file/d/1Ab1mt-tYi5J72xcylB3OlwfpFGfd-NdU/view?usp=sharing
+↗
+ROFL Workshop
+https://drive.google.com/file/d/1eKWrWGKP_FQ4gFgH_4iSl_LH46ksvxuZ/view
+↗
+Sapphire: Working with a confidential EVM
+https://www.youtube.com/watch?v=c_N8edT41-Q
+↗
+Oasis Testnet Faucet
+https://faucet.testnet.oasis.io/
+↗
+Oasis ROFL
+https://docs.oasis.io/rofl/
+↗
+Oasis Sapphire Paratime (EVM Compatible)
+https://docs.oasis.io/dapp/sapphire/
+↗
+Oasis Social Media Channels
+https://docs.oasis.io/get-involved/
+↗
+Oasis Network Documentation
+https://docs.oasis.io/
+↗
+Demo Dapp: Telegram chatbot with integrated LLM
+https://github.com/oasisprotocol/demo-rofl-tgbot/tree/ollama
+↗
+Demo Dapp: Price Oracle
+https://github.com/oasisprotocol/demo-rofl
+↗
+Block Explorer for ROFLs
+https://explorer.oasis.io/testnet/sapphire/rofl/app
+↗
+ROFLs from older hackathons
+https://playground.oasis.io/?tags=ROFL
+↗
+Workshop
+🛠️ Build 8004 Agents with Oasis
+The workshop will show you how to run your agent with Oasis' TEE infrastructure, register it to an 8004 registry, a...
+
+This workshop is happening in-person
+03:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+Zircuit logo
+Zircuit
+$10,000
+
+zircuit.com
+zircuitl2
+Open page →
+About
+The Safe Haven for Onchain Finance.
+Zircuit is a ZK rollup with AI-enabled security at the sequencer level.​ Built by a team of web3 security veterans and PhDs in computer science, algorithms, and cryptography, Zircuit is backed by Pantera Capital, Dragonfly Capital, and Maelstrom.
+Prizes
+🏆 Best DeFi Project on Zircuit ⸺ $6,000
+🥇
+1st place
+$3,750
+🥈
+2nd place
+$2,250
+Apply your hacking skills to generate the best APY or improve the user experience of DeFi for the masses on Zircuit. This prize will be split among the best DeFi protocols that deploy on Zircuit, with quality, security, and novelty being the deciding factors. Remember: deploying on Zircuit is as easy as changing your endpoint in your favorite development framework and a project is eligible as long as the contracts are deployed on Zircuit and verified.
+These DeFi protocols are the ones that will launch a new DeFi summer. Your project should be clearly identifiable as a DeFi protocol. Quality, completeness, and security are paramount. A protocol that lets you (or others!) steal from your users is not a winning submission. Use cases should be well thought out and documented. Through superior UI/UX or novel use cases for staking, your project should aim to give well established DeFi juggernauts cause for concern.
+This bounty will be judged based on completeness, execution, and creativity.
+Qualification Requirements
+1) Project contracts must be deployed on the Zircuit Testnet and verified via the Zircuit Explorer.
+2) A GitHub repository containing the project artifacts (contracts, tests, documentation) and a solid README or short video demo of the project. The README should include:
+- a clear short one-sentence description of your submission
+- a short description of what you integrated Zircuit with and how
+- short description of the team and their backgrounds
+- clear instructions for testing the integration
+- feedback describing your experience with building on Zircuit
+optionally, a short video demo or slide deck.
+
+Links and Resources
+Deploy on Zircuit Quick Start
+https://docs.zircuit.com/build-on-zircuit/deploy-on-zircuit
+↗
+Zircuit RPC Endpoints
+https://docs.zircuit.com/dev-tools/rpc-endpoints
+↗
+Verifying Contracts on Zircuit
+https://docs.zircuit.com/dev-tools/verifying-contracts
+↗
+🧩 Best use of Account Abstraction ⸺ $3,500
+🥇
+1st place
+$2,250
+🥈
+2nd place
+$1,250
+Zircuit supports EIP-7702 which brings some account abstraction on-chain. This bounty is to use this functionality in a new and complete way on-chain. This can include deploying contracts to delegate to, interfaces to use the new transaction types, and more. Remember: deploying on Zircuit is as easy as changing your endpoint in your favorite development framework. You may need to use command line tools to use 7702 functionality (see the links!).
+A successful submission will include a functional prototype that solves the problem it’s intended to address. It will showcase some innovation/creativity, either through technological or UI improvements. It may be complete and solve a long-standing open problem or introduce something with a lot of potential for future development. Either way, it has an impact on the Zircuit ecosystem.
+Winning projects should have a user-centered design that makes it easy for the target audience. This can be end users or developers integrating the project into their own codebase. The best may also include clean and consistent visual designs.
+Any interesting blockchain applications are welcome. Novel ideas are more impressive than clones of existing projects, though there are certainly times where clones include significant improvements. Those that are very technical may impress the judges if done correctly but simpler ideas may be easier to do well. This bounty will be judged based on completeness, execution, and creativity.
+Qualification Requirements
+1) Project contracts must be deployed on the Zircuit Mainnet or Garfield Testnet and verified via the Zircuit Explorer.
+2) A GitHub repository containing the project artifacts (contracts, tests, documentation) and a solid README or short video demo of the project. The README should include:
+- a clear short one-sentence description of your submission
+- a short description of what you integrated Zircuit with and how
+- short description of the team and their backgrounds
+- clear instructions for testing the integration
+- feedback describing your experience with building on Zircuit
+- optionally, a short video demo or slide deck.
+
+Links and Resources
+Deploy on Zircuit Quick Start
+https://docs.zircuit.com/build-on-zircuit/deploy-on-zircuit
+↗
+Zircuit RPC Endpoints
+https://docs.zircuit.com/dev-tools/rpc-endpoints
+↗
+Verifying Contracts on Zircuit
+https://docs.zircuit.com/dev-tools/verifying-contracts
+↗
+List of Sepolia Faucets
+https://docs.zircuit.com/dev-tools/faucet
+↗
+EIP-7702
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md
+↗
+How to Test EIP-7702 Features with Foundry
+https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts
+↗
+🌟 Best Zircuit Integration ⸺ $500
+Integrate Zircuit into your favorite web3 project. Bring Zircuit to wallets, dev tools, bridges, or any other dApp. Grow the Zircuit Ecosystem by connecting Zircuit to the best that web3 has to offer.
+Success looks like Zircuit running with an on- or off-chain app or tool that didn’t support it before. The integration should be correct and functional, but does not need to be complicated. Some integrations can be as simple as adding a chain ID or a node URL to a file. The project should have an impact on the Zircuit ecosystem by expanding its reach.
+This bounty will be judged based on completeness, usefulness, execution, and creativity.
+Qualification Requirements
+1) Project contracts must be deployed on the Zircuit Mainnet or Garfield Testnet and verified via the Zircuit Explorer.
+2) A GitHub repository containing the project artifacts (contracts, tests, documentation) and a solid README or short video demo of the project. The README should include:
+- a clear short one-sentence description of your submission
+- a short description of what you integrated Zircuit with and how
+- short description of the team and their backgrounds
+- clear instructions for testing the integration
+- feedback describing your experience with building on Zircuit
+- optionally, a short video demo or slide deck
+
+Links and Resources
+Deploy on Zircuit Quick Start
+https://docs.zircuit.com/build-on-zircuit/deploy-on-zircuit
+↗
+Zircuit RPC Endpoints
+https://docs.zircuit.com/dev-tools/rpc-endpoints
+↗
+Verifying Contracts on Zircuit
+https://docs.zircuit.com/dev-tools/verifying-contracts
+↗
+List of Sepolia Faucets
+https://docs.zircuit.com/dev-tools/faucet
+↗
+Resources
+Learn more
+https://www.zircuit.com
+↗
+Follow us on X
+https://x.com/ZircuitL2
+↗
+Workshop
+🛠️ Building on Zircuit: A Hackathon Introduc...
+This workshop will give you an introduction to winning prizes using Zircuit. We’ll cover what we think makes a top ...
+
+This workshop is happening in-person
+05:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 5
+
+Jobs
+
+Blockchain Developer
+Zircuit
+→
+
+Senior Rust Engineer
+Zircuit
+→
+Nethermind logo
+Nethermind
+$10,000
+
+nethermind.io
+nethermind
+Open page →
+About
+Nethermind builds and secures core Ethereum infrastructure.
+We develop the Nethermind execution client, contribute to network upgrades, and advance protocol work across rollups and zero-knowledge systems. Our teams combine full-stack Ethereum expertise with security audits, formal verification, and emerging work in verifiable, privacy-preserving digital identity.
+Prizes
+🏆 AuditAgent: Find, Fix, and Fortify ⸺ $500
+Smart contract security remains one of the toughest challenges in Web3 — and the gap is widening. As AI accelerates code generation and vibe coding pushes unaudited contracts to the Ethereum mainnet, vulnerabilities are slipping through faster than review processes or traditional audits can catch them.
+AuditAgent fights fire with fire. It’s an AI-powered pre-auditing solution that uses large language models to analyze smart contract source code, documentation, and specifications — detecting vulnerabilities, inconsistencies, and logic flaws before deployment.
+In this challenge, you’ll put AuditAgent to the test:
+Run it on your own smart contracts, identify a major vulnerability, and fix it.
+Your mission: demonstrate how AI-driven auditing can make your contracts safer and your development process more secure.
+Your Challenge:
+1. Run AuditAgent on one or more of your smart contracts.
+2. Use its analysis to identify a genuine vulnerability or logical issue.
+3. Fix the issue and submit your before/after code along with a brief summary of what you found.
+The goal is to showcase real impact — using AI to strengthen your code.
+Qualification Requirements
+Prize of $500 — awarded to the best submission demonstrating:
+- A real, meaningful vulnerability identified and resolved using AuditAgent.
+- A high-quality fix that effectively addresses the issue.
+Judging Criteria:
+1. Impact of the Discovery
+- Significance and severity of the vulnerability found.
+2. Use of AuditAgent
+- How effectively the tool was leveraged to identify and address the issue.
+3. Quality of the Fix
+- How well the patch resolves the problem and improves contract safety.
+
+Links and Resources
+AuditAgent
+https://auditagent.nethermind.io/
+↗
+AuditAgent Documentation
+https://docs.auditagent.nethermind.io/
+↗
+🏆 The Agentic Frontier: Coordination Without Permission ⸺ $2,500
+Ethereum is not just a blockchain; it is the most open coordination protocol ever built. It enables anyone, whether human or machine, to participate in shared rules, value exchange, and governance without requiring permission.
+Your challenge is to build the missing infrastructure, tools, or mechanisms that make Ethereum a natural environment for agents. Not just agents using Ethereum, but agents that belong on Ethereum—able to transact, reason, coordinate, and collaborate.
+Ask yourself:
+- What would make an autonomous agent choose Ethereum as its operating ground?
+- How can Ethereum’s openness, composability, and credible neutrality become useful primitives for agentic systems?
+- And, inversely, where can AI be genuinely useful to the human Ethereum community? How might agents augment governance, collective research, public goods, or community coordination?
+We’re interested in the connective tissue: the foundations that allow agents and humans to coordinate effectively, transparently, and trustlessly.
+Possible Directions:
+- Agent Coordination Primitives
+- Economic Infrastructure for Agents
+- Governance Augmentation
+- Bridging Cognition and Consensus
+- Collective Missions
+Qualification Requirements
+Requirements:
+- Your project must explore autonomous or semi-autonomous coordination via Ethereum, not just basic contract calls.
+- Include at least one component demonstrating agentic reasoning, decision-making, or cooperation.
+- Provide a short write-up or demo video explaining both why Ethereum matters and how the agentic aspect functions.
+- Strong entries will demonstrate an understanding of how to attract agents, including what problem they’d solve, what value they’d gain, and why Ethereum is the right foundation.
+Judging Criteria:
+- Visionary Potential
+- Originality
+- Coherence
+- Execution
+- Go-to-Market for Agents
+- Composability
+
+Links and Resources
+Agent Framework Eliza (JS/TS)
+https://github.com/elizaOS/eliza
+↗
+Agent Framework ZerePy
+https://github.com/blorm-network/ZerePy
+↗
+Agent Framework LangGraph
+https://www.langchain.com/langgraph
+↗
+Agent Framework Crew AI
+https://www.crewai.com/
+↗
+Agent Framework AutoGen
+https://github.com/microsoft/autogen
+↗
+Ethereum Development
+https://ethereum.org/developers/
+↗
+ERC-8004
+https://eips.ethereum.org/EIPS/eip-8004
+↗
+ChaosChain SDK
+https://pypi.org/project/chaoschain-sdk/
+↗
+ChaosChain SDK
+https://www.npmjs.com/package/@chaoschain/sdk
+↗
+🏆 AgentArena: Build the Next Generation of Security Agents ⸺ $3,000
+AI is transforming the battlefield of smart contract security. As vibe coding accelerates and more unaudited protocols rush to deployment, vulnerabilities are slipping through human review processes. At the same time, AI-driven attackers are getting faster, smarter, and more adaptive; therefore, the defenders must evolve too.
+AgentArena is where that evolution takes place — a competitive platform where AI security agents battle-test smart contracts to uncover vulnerabilities before they fall prey to hackers. Each agent acts independently, scanning, reasoning, and reporting vulnerabilities for bounties.
+This hackathon invites agent builders, AI researchers, and security engineers to build new agents that will join the swarm competing in AgentArena.
+Your mission: create the most capable, creative, and effective autonomous agent for vulnerability discovery.
+Your Challenge:
+- Build a new security agent using our Agent Template
+- Design your own strategy — whether it’s reasoning-driven, model-assisted, heuristic-based, or something entirely new.
+- Optimize for insight, depth, and originality in how your agent identifies vulnerabilities.
+- Compete for a $3,000 grand prize and a place in the next generation of autonomous code security.
+Even if you don’t win the prize, all submitted agents can continue to evolve and participate in future AgentArena competitions, earning bounties for every valid exploit they uncover.
+Qualification Requirements
+Your agent will be evaluated on:
+1. Strategy & Creativity
+- How original and effective is your approach to vulnerability detection?
+- Does your agent demonstrate a clear reasoning process or novel search strategy?
+2. Performance in Test Runs
+- Quality and relevance of the vulnerabilities identified in our test repositories.
+- Depth of analysis and ability to surface meaningful security insights.
+3. Code Quality
+- Clean structure, clarity, and readability of your implementation.
+
+Links and Resources
+Agent Template
+https://github.com/NethermindEth/agentarena-agent-template
+↗
+Documentation
+https://nethermindeth.github.io/agentarena-docs/docs/builder-guide
+↗
+🏆 Building Verifiable Agents with the Triple-Verified Stack ⸺ $4,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+The age of autonomous agents is here, but it runs on a massive trust deficit. How do you prove an AI agent did what it was supposed to do, and nothing more?
+ChaosChain is the accountability protocol for the agentic economy.
+We're building the open-source infrastructure to make AI agents trustworthy by design. We invite you to build on our Triple-Verified Stack, a framework for end-to-end verifiable agent workflows:
+1. Intent Verification: Proof that a human authorized an action.
+2. Process Integrity: Proof that the correct code was executed (leveraging TEEs like EigenCompute or just a hash of the code).
+3. Outcome Adjudication/Accountability: On-chain consensus that the result was valuable and correct.
+Built on open standards like AP2, x402 and ERC-8004, ChaosChain turns trust into a programmable primitive. Your challenge is to utilize our SDKs to develop an application or service that leverages one or more verifiable AI agents. Show us what's possible when you can cryptographically prove an agent's identity, actions, and results.
+What can you build with this?
+- Verifiable Risk Oracles for DeFi
+- Autonomous E-commerce Agents that handle payments
+- Decentralized service marketplaces
+- Auditable scientific research agents
+- Autonomous DAO Manager
+- Decentralized Physical Infrastructure (DePIN) Agen
+The possibilities are endless when trust is a primitive.
+Qualification Requirements
+Qualifications:
+1. Use the ChaosChain SDK (Python or TypeScript) as a core component of your stack.
+2. Implement x402 payment flow (verify + settle), via our hosted facilitator (embedded in our sdk).
+3. Show at least one verifiability link in the chain (preferably more):
+- AP2-signed intent, and/or
+- Process integrity artifact (hash/attestation/log), and
+- Outcome anchoring with ERC-8004 (proof/claim/registry write or mock if testnet).
+4. Submit a 2–3 min demo video + public GitHub with setup instructions.
+Judging Criteria:
+1. End-to-end verifiability: clear mapping of Intent (AP2) → Process integrity → Outcome adjudication (ERC-8004).
+2. Correct x402 integration: proper 402 flow, verify/settle, real (or testnet) payments.
+3. Utility & UX: solves a real agentic use case; smooth DX for other builders.
+4. Technical depth: thoughtful architecture, clean code, receipts/links to proofs.
+5. Presentation: concise video, readable README, reproducible demo.
+
+Links and Resources
+Genesis Studio
+https://github.com/ChaosChain/chaoschain-genesis-studio
+↗
+ChaosChain
+https://x.com/_sumeetc/status/1969678477205840137
+↗
+Managed Facilitator
+https://facilitator.chaoscha.in/
+↗
+TypeScript SDK
+https://github.com/ChaosChain/chaoschain-sdk-ts
+↗
+Python SDK
+https://github.com/ChaosChain/chaoschain/tree/main/packages/sdk
+↗
+ChaosChain x402 repo (facilitator & paywall)
+https://github.com/ChaosChain/chaoschain-x402
+↗
+Workshop
+Building Verifiable Agents with the Triple-Ve...
+Learn how to build verifiable AI agents with ChaosChain’s Triple-Verified Stack - a live walkthrough on creating tr...
+
+This workshop is happening in-person
+03:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+Jobs
+
+Senior Engineer - Advanced Problem Solver
+Nethermind
+→
+
+Account Executive - Web3 Security Solutions
+Nethermind
+→
+Flare Network logo
+Flare Network
+$10,000
+
+dev.flare.network
+flarenetworks
+Open page →
+About
+The ``Flare Time Series Oracle (FTSO) provides decentralized data feeds to the Flare network.
+The Flare Data Connector (FDC) validates external data for Flare's EVM state (it's Web2Json attestation types can fetch arbitrary Web2 data). The Secure Random protocol generates a secure random number on-chain every 90 seconds.
+The FAssets bridge XRP to Flare to use in smart contracts and build DeFi apps.
+See more info on notion - https://flare-network.notion.site/Flare-Hackathon-Guide-ETHGlobal-Buenos-Aires-278d502e6fa680888c92c68b05bb615d
+Prizes
+🏆 MAIN TRACK: use protocols on Flare blockchain ⸺ $8,000
+🥇
+1st place
+$5,000
+🥈
+2nd place
+$2,000
+🥉
+3rd place
+$1,000
+Use protocols on Flare blockchain in an innovative and world changing way!
+Build DApps utilising at least one of Flare’s Enshrined Data Protocols:
+* FTSO (Flare Time Series Oracle) for price feeds.
+* FDC (Flare Data Connector) for Web3 and Web2 data sources,
+* Flare’s Secure Random Number Generator, or
+* FAssets to build dApps that use FXRP (synthetic XRP on Flare) bringing non-smart-contract XRP into DeFi.
+Qualification Requirements
+DApps must make use of at least one of Flare's enshrined Data Protocols.
+Dapps must address real-world problems, or cater to specific use cases to be impactful.
+Add Feedback in the README describing your experience with building on Flare.
+
+Links and Resources
+Flare Time Series Oracle (FTSO)
+https://dev.flare.network/ftso/overview
+↗
+Flare Data Connector (FDC)
+https://dev.flare.network/fdc/overview
+↗
+Flare Secure Random Guide
+https://dev.flare.network/network/guides/secure-random-numbers
+↗
+FAssets
+https://dev.flare.network/fassets/overview
+↗
+🎨 BONUS TRACK: external data source or cross chain application ⸺ $2,000
+Up to 2 teams will receive $1,000
+Most innovative external data source use case or most innovative cross chain application secured by Flare’s protocols.
+Qualification Requirements
+Show innovation by utilizing real world data in an on chain application.
+If you are using an external data source, provide a link to it's API.
+Can be combined with MAIN track or other bounties.
+
+Links and Resources
+Flare Data Connector (FDC)
+https://dev.flare.network/fdc/overview
+↗
+Resources
+Flare Developer Hub
+https://dev.flare.network/
+↗
+Flare Time Series Oracle (FTSO)
+https://dev.flare.network/ftso/overview
+↗
+Flare Data Connector (FDC)
+https://dev.flare.network/fdc/overview
+↗
+Flare Secure Random Guide
+https://dev.flare.network/network/guides/secure-random-numbers
+↗
+XRP to DeFi (FAssets)
+https://dev.flare.network/fassets/overview
+↗
+Quickstart notion
+https://www.notion.so/flare-network/Flare-Hackathon-Guide-ETHGlobal-New-York-22bd502e6fa6802a9bdbd4afa9d8bef0?source=copy_link
+↗
+Workshop
+🛠️ Flare Data Protocols and Smart Accounts
+In this workshop, we'll explore what makes Flare truly unique through our data protocols and the products that can...
+
+This workshop is happening in-person
+03:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 2
+
+Hedera logo
+Hedera
+$10,000
+
+hedera.com
+hedera
+Open page →
+About
+Hedera stands apart as a leading EVM blockchain through its distinctive developer experience. Developers of all backgrounds can leverage familiar tools like Solidity and EVM libraries or SDKs in JavaScript, Rust, Python and more to build applications. The AI Agent Kit SDK also enables you to build agentic applications easily.
+The blockchain network is powered by the hashgraph consensus algorithm which enables 10,000+ TPS, 3s finality, low fixed fees priced in USD, and fair ordering (no MEV).
+--
+Hedera also has SDKs for Go and Swift!
+Prizes
+🤖 Best Use of Hedera Agent Kit & Google A2A ⸺ $4,000
+Create one or more agents using the Hedera Agent Kit that can send and receive A2A messages and, if appropriate, settle payments via AP2 using Hedera tokens. For example, an AI travel agent might negotiate bookings with other agents and pay with stablecoins.
+Qualification Requirements
+1. Multi‑agent communication — implement message exchange using the A2A standard.
+2. Agent Kit integration — build your agents with the Hedera Agent Kit and its adaptors.
+3. Open‑source deliverables — publish code and documentation; include a demo video illustrating agents negotiating via A2A/AP2 and settling on Hedera.
+Bonus points for using multiple Hedera services or advanced features like human‑in‑the‑loop modes.
+
+Links and Resources
+Getting Started
+https://hedera.com/getting-started
+↗
+A2A Protocol
+https://github.com/a2aproject/A2A
+↗
+Hedera Developer Playground
+https://portal.hedera.com/playground
+↗
+Hedera Agent Kit
+https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit
+↗
+🔌 Best Plug-In for Hedera Agent Kit ⸺ $2,000
+Up to 2 teams will receive $1,000
+The Hedera Agent Kit supports a plugin architecture that allows developers to add new tools and integrate third‑party services. This bounty rewards the most useful and well‑architected new plugin that introduces new capabilities. Plugins might wrap external APIs (e.g., DeFi protocols, data providers), simplify token operations, or provide analytics and monitoring.
+Qualification Requirements
+1. Follow the plugin architecture — your plugin must adhere to the Hedera Agent Kit’s plugin interface and be installable via npm or similar.
+2. Provide clear documentation — include setup instructions, available tools and example usage. Explain how the plugin interacts with Hedera and any external services.
+3. Demonstrate utility — build a small sample agent showing how the plugin is used. If the plugin interfaces with Hedera network services, ensure contracts are verified and transactions are signed appropriately.
+4. Deliverables — publish the plugin code and example project under an open‑source licence, supply a README and a short demo video.
+Bonus points for interoperability with other agent ecosystems or for integrating real‑world data sources.
+
+Links and Resources
+Hedera AI Agent Kit Quickstart
+https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit
+↗
+How to Create a Plugin
+https://github.com/hashgraph/hedera-agent-kit-js/blob/main/docs/PLUGINS.md
+↗
+Create Hedera Agent Kit NextJS App
+https://www.npmjs.com/package/create-hedera-agent
+↗
+🔗 EVM Innovator Track ⸺ $4,000
+Hedera’s EVM compatibility allows developers to write Solidity contracts while benefiting from fast finality and low fees. This bounty is about using cross‑chain and real‑world data to build innovative dApps. Example ideas include multi‑chain financing, cross‑chain auctions or data‑driven trading bots.
+Qualification Requirements
+1. Deploy and verify a smart contract on Hedera — use Hedera mainnet, testnet or previewnet; verify contracts on Hashscan.
+2. Integrate oracles and/or bridges — consume external price feeds from Chainlink, Pyth or Supra, and/or use Chainlink CCIP, LayerZero or HashPort for cross‑chain transfers.
+3. Use Hedera services where relevant — consider HTS System Contracts or the Token Service for hybrid native/EVM functionality.
+4. Deliverables — provide open‑source code, a clear README and a demo video. Bonus points for combining multiple oracles/bridges, integrating Hedera wallet flows (HashPack, Kabila, MetaMask Snap), or offering a novel real‑world use case.
+
+Links and Resources
+Getting Started on Hedera EVM
+https://docs.hedera.com/hedera/getting-started-evm-developers
+↗
+Oracles on Hedera
+https://docs.hedera.com/hedera/open-source-solutions/oracle-networks
+↗
+Contract Verification on Hashscan
+https://docs.hedera.com/hedera/tutorials/smart-contracts/how-to-verify-a-smart-contract-on-hashscan
+↗
+Hedera Portal Contract Builder
+https://docs.hedera.com/hedera/tutorials/smart-contracts
+↗
+Bridges on Hedera
+https://docs.hedera.com/hedera/open-source-solutions/interoperability-and-bridging
+↗
+Resources
+Hedera Docs
+https://docs.hedera.com
+↗
+Hedera Contract Builder (Remix IDE)
+https://portal.hedera.com/contract-builder
+↗
+Hedera SDK Playground
+https://portal.hedera.com/playground
+↗
+Hedera Hivemind GPT
+https://chatgpt.com/g/g-TuVHDmAdq-hedera-hivemind
+↗
+Ledger logo
+Ledger
+$10,000
+
+ledger.com
+ledger
+Open page →
+About
+Build Clear Signing experiences or Device Management Kit integrations. Meet our engineers, get live reviews, and aim for the $10,000 bounty pool.
+Prizes
+📝 CLEAR SIGNING (ERC-7730) ⸺ $4,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+Enable human-readable signing for any dApp. Author ERC-7730 descriptors to decode complex transactions, or build the developer tooling needed to scale the standard.
+Example projects:
+- Create ERC-7730 JSON files for DeFi protocols → Win a Ledger device
+- Build tooling for ERC-7730 creation/validation
+- Improve the JSON Creation Tool
+🛠️ [L] HARDWARE INTEGRATIONS ⸺ $5,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$2,000
+Expand Ledger hardware support with the Device Management Kit. Add signers, upstream improvements, or build Discover Live Apps.
+Example projects:
+- Implement DMK in popular Web3 connector libraries (ethers.js, wagmi, RainbowKit, web3-react, Reown AppKit, Web3Auth...)
+- Add a new Signer to the Device Management Kit
+- Build a Device App (C/Rust) or a Discover Live App
+✨ CREATIVITY AWARD ⸺ $1,000
+Rewarding surprising, high-impact ideas that change how people build with Ledger.
+Qualification Requirements
+Show us inventive Ledger tooling, DMK use cases, or Clear Signing flows that transform developer experiences.
+
+Workshop
+🛠️ Ledger Direct Connectivity for dApps
+Come and experiment the new way of integrating a direct connection with Ledger Hardware Signers.
+
+This workshop is happening in-person
+03:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+Jobs
+
+Software Engineer - Backend Scala
+Ledger
+→
+Avail logo
+Avail
+$10,000
+
+availproject.org
+availproject
+Open page →
+About
+Avail is designed for a new era where users, dApps, and tokens can navigate the onchain economy at an unprecedented scale. With Avail, both users and developers gain access to the entire onchain economy from anywhere.
+Avail frees developers from the constraints of specific tools, programming languages, or frameworks, allowing them to use the stack that best fits their project. Simply plug-in Avail to reach any asset on any chain, at any scale.
+Prizes
+🌊 Build Unchained Apps with Avail Nexus SDK (General Track) ⸺ $4,500
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$2,000
+For this track, devs are free to build anything, any dapp or usecase powered by Avail Nexus.
+Develop any innovative and efficient app across any vertical that seamlessly integrates the Avail Nexus SDK to share and transfer liquidity across chains.
+Example Ideas:
+- Unified gas refuel: “top up gas on X chain” or refuel for any token. similar to smolrefuel.com but with Nexus integrated and better pricing.
+- Intent playground: Visual Composer to drag/drop steps and simulate cost/latency before submitting
+- Intent explorer: Uses Nexus SDK intents and creates an explorer for navigating through a wallet’s intents.
+- A browser extension that allows you to spend unified eth to stake on Lido
+- An app that allows you to deposit unified USDC/USDT on the highest yield generating market on Aave/Morpho
+Qualification Requirements
+- README that clearly defines how Avail Nexus SDK is used
+- Meaningful use of Nexus SDK (nexus-core, nexus-widgets, or nexus-elements)
+- Show a demo of a crosschain intent interaction on the app.
+- Bonus points if you use Nexus SDK features like “Bridge & Execute” in the project.
+
+🐳 Best DeFi or Payments app with Avail Nexus SDK ⸺ $5,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$2,000
+This one is an interesting track for devs to experiment and innovate. If you’re building a project focused on DeFi, Payments, or agentic payments, then this track is for you! Integrate crosschain intents with Avail Nexus SDK into your app in a meaningful manner. Utilize powerful features like "Bridge & Execute", or "XCS Swaps (crosschain swaps)" to build your app. Rethink how DeFi or Payment rails are built. Build innovative solutions.
+Example Ideas:
+- Adaptive Yield Router: what if users can move their idle stables to best APY anywhere; weekly replace intents with checking all guardrails such as slippage, gas ceiling etc. At a click of a button by a user.
+- Payroll & Splits: Pay your team across any chain with any token. Abstract and consolidate funds from anywhere.
+- An app that allows you to deposit unified USDC/USDT on the highest yield generating market on Aave/Morpho
+- A browser extension that allows you to spend unified eth to stake on Lido
+Qualification Requirements
+Qualification requirements:
+- README that clearly defines how Avail Nexus SDK is used
+- Meaningful use of Nexus SDK (nexus-core, nexus-widgets, or nexus-elements)
+- Show a demo of a crosschain intent interaction on the app.
+- Bonus points if you use Nexus SDK features like “Bridge & Execute” in the project.
+
+📝 Developer Feedback (Test our Docs) ⸺ $500
+Test out the Avail Nexus SDK in your projects. Give us with any feedback as you try to build with it. If you feel like something is missing or hard to find on the docs, let us know! Add images, videos, anything to get the point across.
+Add your feedback to AVAIL_FEEDBACK.md in your submission repo.
+Qualification Requirements
+Hackers need to:
+- Go through the documentation of Avail Nexus SDK
+- Create a AVAIL_FEEDBACK.md file in your existing Project repo or create a new Github repo and provide the feedback in it.
+- Upload the screenshots or any supporting material to get the point across.
+- Make it as detailed as possible.
+
+Resources
+Project Ideas [CHECK THIS OUT]
+https://avail-project.notion.site/ETHOnline-Avail-Nexus-Project-Ideas-289e67c666dd8009961effac6466f6b9?pvs=74
+↗
+Avail Nexus Docs
+https://docs.availproject.org/nexus/introduction-to-nexus
+↗
+Nexus Cheatsheet
+https://docs.availproject.org/nexus/nexus-cheatsheet
+↗
+Nexus NextJS Starter Template
+https://github.com/availproject/nexus-nextjs-template
+↗
+Nexus Vite Starter Template
+https://github.com/availproject/nexus-vite-template
+↗
+Shadcn UI Elements - Nexus
+https://elements.nexus.availproject.org/
+↗
+Workshop
+Avail Workshop
+Avail is designed for a new era where users, dApps, and tokens can navigate the onchain economy at an unprecedented...
+
+This workshop is happening in-person
+05:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 1
+
+Polygon logo
+Polygon
+$10,000
+
+polygon.technology
+0xpolygon
+Open page →
+About
+Polygon Labs is a Web3 software company developing Polygon Proof-of-Stake network, the premiere blockchain for payments and RWAs, and Agglayer, a protocol to connect any blockchain or app for a unified cross-chain experience.
+Prizes
+💸 Best Use of Agentic Payments on Polygon ⸺ $10,000
+🥇
+1st place
+$3,500
+🥈
+2nd place
+$2,500
+🥉
+3rd place
+$2,000
+🏅
+4th place
+$1,250
+🏅
+5th place
+$750
+We want to see projects building innovative payment projects using x402 and agentic tooling developed by Polygon deployed to the Polygon network.
+We're looking for two kinds of projects:
+1) Combining x402 with an AI / Agentic application
+2) Projects that expand the x402 protocol: Privacy, Batching, Refunds / Fraud Management, Integration with 8004, Identity, etc.
+Qualification Requirements
+• Application deployed to Polygon Network
+• A GitHub repository with README.md, demo link or setup instructions
+• Demo Video
+
+Links and Resources
+Polygon Agentic Payments Documentation
+https://agentic-docs.polygon.technology
+↗
+AutoPay Extension for x402
+https://agentic-docs.polygon.technology/general/x402/tools/autopay/
+↗
+LLM Wallet MCP library
+https://agentic-docs.polygon.technology/general/agent-integration/tools/llm-wallet/
+↗
+Workshop
+Giving your LLMs their own crypto wallets
+How can you give your LLM its own crypto wallet? And why would you? In an age of APIs gated with x402 micropayments...
+
+This workshop is happening in-person
+02:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 2
+
+Circle logo
+Circle
+$10,000
+
+circle.com
+circle
+Open page →
+About
+Circle's developer platform provides the tools to integrate USDC and blockchain-based payments into your application, with a suite of smart contracts, APIs, and SDKs designed to get you started quickly and securely. Circle recently launched Arc on public testnet, which includes the support of Circle's developer platform. Arc is an open Layer-1 blockchain purpose-built to unite programmable money and onchain innovation with real-world economic activity and is designed to serve as the Economic OS for the internet.
+Prizes
+🏆 Best Smart Contracts on Arc with Advanced Stablecoin Logic ⸺ $4,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+Deploy smart contracts on Arc that demonstrate programmable logic using USDC or EURC.
+Contracts should go beyond simple transfers, like automation, conditional logic, or cross-chain interoperability. Bonus points for composability with Circle's Gateway or CCTP offerings.
+Qualification Requirements
+Qualification Requirements
+Submissions will be evaluated based on the following parameters. Please be clear what bounty you are submitting for as a part of your submission!
+* Functional MVP and diagram: Projects must demonstrate a working frontend and backend plus an architecture diagram.
+* Video demonstration + presentation: Succinctly outlining the project's core functions and its effective use of Circle's Developer tools/tech is required, supported by detailed documentation.
+* Link to GitHub/Replit repo
+
+Links and Resources
+Arc docs
+https://docs.arc.network/arc/concepts/welcome-to-arc
+↗
+Testnet faucet
+https://faucet.circle.com
+↗
+🏆 Best Crosschain USDC Experience with Circle's Bridge Kit and Arc ⸺ $2,000
+Create a seamless crosschain app that leverages Circle's Bridge Kit to enable USDC transfers between Arc and supported chains.
+Qualification Requirements
+Qualification Requirements
+Submissions will be evaluated based on the following parameters. Please be clear what bounty you are submitting for as a part of your submission!
+* Functional MVP and diagram: Projects must demonstrate a working frontend and backend plus an architecture diagram.
+* Video demonstration + presentation: Succinctly outlining the project's core functions and its effective use of Circle's Developer tools/tech is required, supported by detailed documentation.
+* Link to GitHub/Replit repo
+
+Links and Resources
+Bridge Kit docs
+https://developers.circle.com/bridge-kit
+↗
+🏆 Best Automated Treasury Operations with Circle Gateway and Arc ⸺ $2,000
+Build an onchain treasury automation system using Circle Gateway and Arc that manages, allocates, and distributes USDC. Bonus points for integrations that use Circle Wallets
+Qualification Requirements
+Qualification Requirements
+Submissions will be evaluated based on the following parameters. Please be clear what bounty you are submitting for as a part of your submission!
+* Functional MVP and diagram: Projects must demonstrate a working frontend and backend plus an architecture diagram.
+* Video demonstration + presentation: Succinctly outlining the project's core functions and its effective use of Circle's Developer tools/tech is required, supported by detailed documentation.
+* Link to GitHub/Replit repo
+
+Links and Resources
+Gateway docs
+https://developers.circle.com/gateway
+↗
+🏆 Best AI Agent Wallet with Circle Wallets ⸺ $2,000
+Create an autonomous agent that uses Circle Wallets to execute transactions on Arc. The agent should make decisions on real-world data or API inputs and transfer USDC. Bonus points for integrating x402 to monetize API or AI-driven actions.
+Qualification Requirements
+Qualification Requirements
+Submissions will be evaluated based on the following parameters. Please be clear what bounty you are submitting for as a part of your submission!
+* Functional MVP and diagram: Projects must demonstrate a working frontend and backend plus an architecture diagram.
+* Video demonstration + presentation: Succinctly outlining the project's core functions and its effective use of Circle's Developer tools/tech is required, supported by detailed documentation.
+* Link to GitHub/Replit repo
+
+Links and Resources
+Circle Wallets docs
+https://developers.circle.com/w3s/programmable-wallets
+↗
+Blog -Autonomous Payments using Circle Wallets, USDC, and x402
+https://www.circle.com/blog/autonomous-payments-using-circle-wallets-usdc-and-x402
+↗
+Thirdweb on Arc
+https://thirdweb.com/arc-testnet?ref=blog.thirdweb.com
+↗
+Resources
+Arc docs
+https://docs.arc.network/arc/concepts/welcome-to-arc
+↗
+Circle Platform docs
+https://developers.circle.com/
+↗
+Testnet faucet
+https://faucet.circle.com/
+↗
+Arc Discord
+https://discord.com/invite/buildonarc
+↗
+Workshop
+Watch Video →
+🛠️Circle Workshop
+Building with Arc and the Circle Developer Platform
+
+This workshop is happening in-person
+04:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+ENS logo
+ENS
+$10,000
+
+ens.domains
+ensdomains
+Open page →
+About
+Decentralized naming for the new internet. Replace 0x addresses with human-readable names. Leverage portable profiles, payment settings, and social features with ENS! Onboard the next wave of users with sub-names.
+Prizes
+🏅 Most creative use of ENS ⸺ $10,000
+🥇
+1st place
+$3,500
+🥈
+2nd place
+$2,000
+🥉
+3rd place
+$1,500 ×3
+Any type of ENS integration is eligible for this prize. Get creative!
+An example of a successful project may be a smart contract wallet that mints an ENS subname on L2 and sets its primary name upon deployment. If you're building an AI project, consider how ENS can be used to name autonomous agents. Come by our booth for help brainstorming ways to integrate ENS into your project!
+Qualification Requirements
+It should be obvious how ENS improves your product and is not just implemented as an afterthought. Your demo must be functional and not just include hard-coded values. Upon submission, your project showcase must have a video recording or link to a live demo (ideally both) and the code needs to be open source and accessible on Github or a similar platform.
+
+Links and Resources
+ENS Developer Docs
+https://docs.ens.domains/
+↗
+Workshop
+🛠️ ENS - Identity in Your Apps
+Learn all about ENS (Ethereum Name Service), the decentralised naming protocol used by hundreds of web2 and web3 ap...
+
+This workshop is happening in-person
+05:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+Fluence logo
+Fluence
+$10,000
+
+fluence.network
+fluence_project
+Open page →
+About
+Fluence is an enterprise-grade cloudless computing platform that frees users from dependence on centralized cloud monopolies. Open, decentralized and powered by top-tier data centers, it ensures high reliability while delivering up to 75% cost savings compared to traditional cloud platforms.
+Prizes
+🤖 Best use of Fluence GPU containers API ⸺ $6,000
+Up to 3 teams will receive $2,000
+Build the most impactful application using Fluence GPU containers API on decentralized infrastructure.
+🎯 Objective
+Create a production-ready AI application leveraging Fluence GPU containers API that demonstrates real-world advantages of decentralized GPU compute—whether through cost efficiency, scalability, or improved accessibility.
+🚀 Examples
+Quantized LLM inference • Multi-model AI systems • Autonomous agents • Real-time data pipelines
+Qualification Requirements
+🪼 To qualify, your project must integrate Fluence Cloudless Compute:
+• Host your backend or core logic on Fluence CPU Cloud.
+• Leverage the Fluence GPU Containers API to power your compute-intensive workloads (e.g., ML inference, rendering, etc.).
+🪼 Your submission must also include a README.md file covering:
+• What it does: Clear project overview and purpose.
+• How to set it up: Step-by-step setup and installation instructions.
+• How you use Fluence: Explain how Fluence APIs, instances, and hardware (CPU/GPU) are used in your architecture.
+• How to run it: Execution instructions, environment variables, or command examples.
+• Examples & visuals: Include sample inputs/outputs, screenshots, or example API calls.
+🪼 Your project must be live and accessible:
+• Deployed on the Fluence Platform.
+• Include a public endpoint or access link.
+• Provide clear usage instructions (how to interact with the deployed version).
+🪼 To ensure openness and reusability:
+• Include a recognized open-source license in your repository (e.g., MIT, Apache 2.0, or similar).
+
+Links and Resources
+Fluence Concole
+https://console.fluence.network/auth/sign-in
+↗
+Main Docs
+https://fluence.dev/docs/build/overview
+↗
+API Wrapper
+https://github.com/boneyard93501/api-wrapper
+↗
+How to Deploy on Fluence CPU
+https://www.fluence.network/blog/deploy-on-fluence-virtual-servers/
+↗
+🪼 Best use of Fluence CPU Cloud API ⸺ $4,000
+Up to 2 teams will receive $2,000
+Build the most impactful application using Fluence CPU cloud API on decentralized infrastructure.
+🎯 Objective
+Create application leveraging Fluence CPU cloud API that demonstrates real-world advantages of decentralized compute—whether through cost efficiency, scalability, or improved accessibility.
+🚀 Examples
+Data processing pipelines • Web scrapers • API aggregators • Batch processing jobs • Blockchain indexers
+Qualification Requirements
+🪼 To qualify, your project must integrate Fluence Cloudless Compute:
+• Host your backend or core logic on Fluence CPU Cloud.
+• Optionally leverage the Fluence GPU Containers API to power your compute-intensive workloads (e.g., ML inference, rendering, etc.).
+🪼 Your submission must also include a README.md file covering:
+• What it does: Clear project overview and purpose.
+• How to set it up: Step-by-step setup and installation instructions.
+• How you use Fluence: Explain how Fluence APIs, instances, and hardware (CPU/GPU) are used in your architecture.
+• How to run it: Execution instructions, environment variables, or command examples.
+• Examples & visuals: Include sample inputs/outputs, screenshots, or example API calls.
+🪼 Your project must be live and accessible:
+• Deployed on the Fluence Platform.
+• Include a public endpoint or access link.
+• Provide clear usage instructions (how to interact with the deployed version).
+🪼 To ensure openness and reusability:
+• Include a recognized open-source license in your repository (e.g., MIT, Apache 2.0, or similar).
+
+Links and Resources
+How to Deploy on Fluence CPU
+https://www.fluence.network/blog/deploy-on-fluence-virtual-servers/
+↗
+Fluence Console
+https://console.fluence.network/auth/sign-in
+↗
+Main Docs
+https://fluence.dev/docs/build/overview
+↗
+API Wrapper
+https://github.com/boneyard93501/api-wrapper
+↗
+Workshop
+🛠️ How to Deploy on Fluence Cloudless Compu...
+Learn how to deploy on Fluence - decentralized compute that's 75% cheaper than AWS with no vendor lock-in. Covers t...
+
+This workshop is happening in-person
+02:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+Jobs
+
+Business Development Manager
+Fluence
+→
+
+DevOps Lead
+Fluence
+→
+Saga logo
+Saga
+$10,000
+
+saga.xyz
+sagaxyz__
+Open page →
+About
+Saga offers developers the unique ability to launch their own EVM-compatible Layer 1 blockchains, known as Chainlets, with infinite horizontal scalability. Saga provides recycled gas tokens, enabling developers to implement zero-gas transactions for their users. This infrastructure is particularly well-suited for building high-performance applications like games, entertainment platforms, DeFi protocols, and social applications, where dedicated resources and customizable environments are crucial.
+By building on a Saga Chain, developers gain the power of a dedicated blockchain without the traditional complexities and costs, unlocking unprecedented scalability and customization for their projects.
+Prizes
+🏆 Best dApp built on Saga Chainlet ⸺ $10,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$3,000
+🥉
+3rd place
+$2,000
+🏅
+4th place
+$1,000
+Build a web3 dApp that sets the benchmark for simplicity and user experience in web3. We are looking for innovative solutions across the DeFi, Web3 Gaming and AI Agents domains. Bonus points for leveraging the gasless nature of the chain and integrating the DeFi primitives like the Saga Dollar yield-bearing stablecoin.
+Qualification Requirements
+- Deploy smart contract your Saga L1 chain (Reach out to TG: @DeJen for access)
+- Projects must have a accessible UI/frontend, and a GitHub repository with a descriptive README which includes a short description of your submission and why you chose Saga chainlet
+- Demo video
+
+Links and Resources
+Buidler Guide for ETHGlobal Buenos Aires 2025
+https://pepper-cupboard-57e.notion.site/Buidler-Guide-for-ETHGlobal-Buenos-Aires-2025-2a41fb5d290980adb493c03b5ba4e384
+↗
+Resources
+Buidler Guide for ETHGlobal Buenos Aires 2025
+https://pepper-cupboard-57e.notion.site/Buidler-Guide-for-ETHGlobal-Buenos-Aires-2025-2a41fb5d290980adb493c03b5ba4e384
+↗
+Launching your Layer 1 EVM chain for free
+https://medium.com/sagaxyz/launch-your-first-saga-chainlet-99541cc35ffa
+↗
+Saga Developer Docs
+https://docs.saga.xyz/sagacli/quickstart-guide
+↗
+Workshop
+🛠️ Launch your gasless EVM Blockchain in min...
+This hands-on workshop is for developers tired of shared blockspace and unpredictable gas fees. We will guide you s...
+
+This workshop is happening in-person
+04:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 1
+
+Jobs
+
+Senior Frontend Developer
+Saga
+→
+
+Senior Protocol Engineer
+Saga
+→
+Yellow logo
+Yellow
+$10,000
+
+yellow.org
+yellow
+Open page →
+About
+Yellow is a clearing Network that uses state channels to facilitate trading and settlement through smart contracts and on-chain margin accounts. We are contributor of erc7824.org and looking for comments on our initiative. State Channels are a very powerful way to scale dApps in a chain agnostic way. Yellow leverage it to make trading fully non-custodial, cross-chain and infinitely scalable.
+Prizes
+💎 Yellow Prize Pool ⸺ $10,000
+🥇
+1st place
+$5,000
+🥈
+2nd place
+$3,000
+🥉
+3rd place
+$2,000
+Yellow is here to challenge you: explore the capabilities of ERC-7824 and the Nitrolite Protocol, whether by contributing to or building with the Yellow SDK.
+Qualification Requirements
+## Hackathon project requirements
+- Integrate Nitrolite SDK: demonstrate the use of ERC-7824 in facilitating state channel mechanisms within your application
+- Provide a Working Demo: submit a functional demonstration of your application, showcasing the integration
+- Open Source Your Code: ensure your project’s codebase is publicly accessible for evaluation
+
+Links and Resources
+Yellow SDK community
+https://t.me/YellowSDKCommunity
+↗
+Documentation
+https://erc7824.org/
+↗
+How to build with Yellow SDK
+https://www.youtube.com/watch?v=dF0SeIYbyJY
+↗
+Workshop
+🛠️ Yellow Network-High Performance Apps with...
+Whether you're gearing up for the hackathon or exploring powerful new tools in Web3, this session breaks down how t...
+
+This workshop is happening in-person
+03:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 5
+
+Hyperlane logo
+Hyperlane
+$10,000
+
+hyperlane.xyz
+hyperlane
+Open page →
+About
+Hyperlane is the permissionless interoperability framework connecting the modular ecosystem. With Hyperlane, anyone can connect any blockchain, rollup, appchain, on any VM. Additionally, Hyperlane’s modular security stack gives developers the power to customize their interchain security to their needs.
+Prizes
+🥇 Best Use of Hyperlane ⸺ $4,000
+Up to 2 teams will receive $2,000
+The grand prize will be given to the most compelling submissions made during the hackathon. It can qualify under any of the categories below, so be sure to read them to get some ideas!
+Qualification Requirements
+Get in touch with the Hyperlane team for more details! Join our discord to engage & get support.
+
+🚝 Best Infrastructure ⸺ $4,000
+Up to 2 teams will receive $2,000
+This category is for building infrastructure that either enhances Hyperlane or makes use of Hyperlane's capabilities. Maybe you’ll build a customized Deploy tool to bundle ICA's and HWR's? Or perhaps you’d build a way to more easily connect chains with Hyperlane? Maybe you’ll build a tool to allow any chain to get access to oracle feeds from any chain? You decide!
+Qualification Requirements
+Get in touch with the Hyperlane team for more details! Join our discord to engage & get support.
+
+🧩 Best Interchain App ⸺ $2,000
+An interchain application is an application that communicates between different blockchains. It can either transfer assets or make interchain function calls. The winner of this prize will be the most impressive application that makes use of Hyperlane and benefits from its presence on multiple blockchains.
+Qualification Requirements
+Get in touch with the team for more details! Join our discord to engage with the team and get support.
+
+Workshop
+🛠 Building with Hyperlane Interoperability F...
+Join Eda and learn what you can build with Hyperlane, as well as get an overview of the bounties and project exampl...
+
+This workshop is happening in-person
+04:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+Hardhat logo
+Hardhat
+$10,000
+
+hardhat.org
+hardhathq
+Open page →
+About
+Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
+Hardhat 3 introduces Solidity tests, performance critical components in Rust, multichain support across the board, OP Stack simulation, revamped build system, a modernized CLI and plugin system, and a lot more.
+Prizes
+👷 Best projects built using Hardhat 3 ⸺ $10,000
+Up to 2 teams will receive $5,000
+Build your project using Hardhat 3 as the main Solidity testing and network simulation tool
+Qualification Requirements
+Usage of a Hardhat release 3.0.0*. Usage of Hardhat 2 releases won't qualify.
+
+Links and Resources
+Hardhat docs
+https://hardhat.org/docs/getting-started
+↗
+Jobs
+
+Senior Software Engineer - Runtime
+Hardhat
+→
+
+Senior Developer Relations Advocate
+Hardhat
+→
+Celo logo
+Celo
+$10,000
+
+celo.org
+celo
+Open page →
+About
+Celo is a Layer 2 built on a modular stack of EigenDA and OP Succinct, offering the speed, security, and scalability to power the next generation of consumer apps, DeFi protocols, and AI agents.
+With a vibrant DeFi ecosystem, Celo gives you the perfect foundation to create tools that drive financial inclusion and unlock real-world utility.
+And here’s where it gets even more exciting:
+Our developer tooling lets you go from idea to prototype fast.
+You can build and deploy a MiniApp for MiniPay, Celo’s superapp with 10+ million users and growing, in just minutes.
+So, what are you waiting for?
+Dive in, ship your first MiniApp, and put your creation in the hands of millions.
+Let’s build tools that scale and matter. 🌍💡
+Prizes
+🏆 Best MiniApp on Celo ⸺ $10,000
+🥇
+1st place
+$6,000
+🥈
+2nd place
+$2,500
+🥉
+3rd place
+$1,500
+We're looking for the next viral Mini App on Celo!
+Focus on real-world consumer use cases for a wide audience. Whether its a fun game, an AI agent, or DeFi use case, build something that’s fun, creative and brings value to millions of users.
+Qualification Requirements
+✅ Live Farcaster Mini App (must use Farcaster wagmi wallet connector to auto-connect wallet to app)
+✅ Does onchain actions on Celo
+✅ Verified contract deployed on Celo Mainnet (for agents, transactions on mainnet)
+✅ Live Demo in Farcaster Wallet
+✅ Open Source: Be public and free for others to review
+✅ Not be a simple fork of an existing project
+✅ Include a README.md with:
+A short description of what you integrated with Celo, and how it was done
+A short one-sentence description that clearly describes your project
+A short description of your team and their social handles
+
+Links and Resources
+Build a Mini App with Celo Composer
+https://github.com/orgs/celo-org/discussions/26
+↗
+Farcaster Wallet Connect
+https://miniapps.farcaster.xyz/docs/guides/wallets
+↗
+Resources
+Website
+https://celo.org/
+↗
+Docs
+https://docs.celo.org/home/celo
+↗
+StarterKit
+https://github.com/celo-org/celo-composer
+↗
+Faucet
+https://faucet.celo.org/celo-sepolia
+↗
+Project Ideas
+https://github.com/orgs/celo-org/discussions/categories/project-ideas
+↗
+ETH Global Partner List on Celo
+https://docs.google.com/document/d/1kdLWlv-WWoVRYAaohTA8QoMdhIRfhPTrTcPq2LxYWMI/edit?usp=sharing
+↗
+Citrea logo
+Citrea
+$10,000
+
+citrea.xyz
+citrea_xyz
+Open page →
+About
+Citrea is EVM compatible, the first ZK Rollup on Bitcoin, featuring a BitVM-based trust-minimized bridge called Clementine. Ensuring on-chain verifiability and data availability on Bitcoin, Citrea makes it possible to build everything as a Bitcoin Application - a ₿app.
+Through its trust-minimized (1-of-N) Bitcoin bridge Clementine and fully EVM-compatible execution environment, Citrea unlocks the trillion-dollar asset base of Bitcoin to be utilized in DeFi and money markets, tapping a massive liquidity, without any change to Bitcoin’s consensus.
+Prizes
+🐸 Best Degen Bapps (Bitcoin Applications) ⸺ $6,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$2,000
+Citrea opens the door to an entirely new class of Bitcoin powered experiments. Some brilliant, some chaotic, some beautifully unhinged. The Best Degen Bapp track is for the builders who think outside the box, break assumptions, push boundaries, and ship the kind of ideas that make people say:
+“Wait… you built what on Bitcoin?”
+This track looks for creativity in its rawest form, whether your project looks impractical, shockingly clever, or something so new that it breaks normal categories. If it makes us laugh, mock, or rethink what Bitcoin applications can be, you're in the right place.
+We can't actually give examples for this category but here are few we could think of:
+Bitcoin native social experiments: Chaotic coordination games, on-chain memes with mechanics, self destroying apps for privacy (somehow).
+Game-Fi but Bitcoinized: Mine to Mint apps, Burn to mint puzzles, proof of vibes systems, mining inspired game mechanics.
+Useless but brilliant tools: Anything that feels like why we need crypto for this but is actually genius.
+Weird primitives: Be creative. Look for mechanisms no one asked for but everyone suddenly needs.
+“Why not?” apps: If it breaks regular models, that’s the energy we look for. Look for daily apps and how to enable them Bapps.
+If your project fits nowhere else, it probably belongs here.
+Building for this track does not prevent you from also applying to the Innovation track. Let chaos inspire you.
+Qualification Requirements
+- Integrate Citrea (contracts deployed to Citrea testnet and/or frontend using Citrea RPC)
+- Explain how you’re using Citrea in the description
+- Be open source (public GitHub during judging)
+- Show a working demo (ideally a deployed live link, or video + alternatively provide instructions to build & run on a local environment or showcase to the Jury at booth)
+- Include any necessary links, deployed addresses/tx hashes, and etc.
+
+Links and Resources
+Hackathon Survival Guide: Citrea 101
+https://www.notion.so/citrea/EthGlobal-New-Delhi-Citrea-Hacker-Survival-Guide-279c176f7c8080e59cd6cfdf19dbd242
+↗
+Developer Documentation
+https://docs.citrea.xyz
+↗
+Ecosystem Tooling
+https://docs.citrea.xyz/developer-documentation/ecosystem-tooling
+↗
+Citrea Devs @BA
+https://t.me/citreadevsba
+↗
+🍊 All-In Bitcoin ⸺ $4,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+This track is for teams who want to work on ideas that strengthen Bitcoin’s role in the world: sound money, global access, resilience, interoperability, and long-term utility.
+If your project focuses on unlocking new possibilities for Bitcoin users or enhancing Bitcoin’s functionality, this is the right place for it.
+Some areas of interest include:
+- Privacy and sovereign money systems
+- Bitcoin x AI x Citrea integrations
+- Bitcoin-secured RWAs or new asset models
+- Community-focused Bitcoin apps such as ROSCAs and savings circles
+- Cross-chain and interoperability solutions
+- Infrastructure that improves security, scalability or user experience
+- Any novel concept that uses Citrea to extend what Bitcoin can do
+This track is all about building the next generation of Bitcoin applications and tools with clear purpose and long term impact.
+If your work contributes to the future of Bitcoin, you belong here.
+Qualification Requirements
+- Integrate Citrea (contracts deployed to Citrea testnet and/or frontend using Citrea RPC)
+- Explain how you’re using Citrea in the description
+- Be open source (public GitHub during judging)
+- Show a working demo (ideally a deployed live link, or video + alternatively provide instructions to build & run on a local environment)
+- Include any necessary links, deployed addresses/tx hashes, and etc.
+
+Links and Resources
+Documentation
+https://docs.citrea.xyz
+↗
+Ecosystem Tooling
+https://docs.citrea.xyz/developer-documentation/ecosystem-tooling
+↗
+Chain Information
+https://docs.citrea.xyz/welcome/chain-information
+↗
+Website
+https://citrea.xyz
+↗
+Resources
+Developer Documentation
+https://docs.citrea.xyz
+↗
+Ecosystem Tooling
+https://docs.citrea.xyz/developer-documentation/ecosystem-tooling
+↗
+Website
+https://citrea.xyz
+↗
+Hackathon Survival Guide: Citrea 101
+https://www.notion.so/citrea/EthGlobal-New-Delhi-Citrea-Hacker-Survival-Guide-279c176f7c8080e59cd6cfdf19dbd242
+↗
+Citrea Devs @BA
+https://t.me/citreadevsba
+↗
+Workshop
+🍊 A Guide to Building Bitcoin Applications o...
+Citrea is the first ZK Rollup on Bitcoin with EVM compatibility, featuring a trust-minimized bridge called Clementi...
+
+This workshop is happening in-person
+04:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+The Graph logo
+The Graph
+$10,000
+
+thegraph.com
+graphprotocol
+Open page →
+About
+Hackers at DevCon can leverage multiple tools from The Graph's stack:
+- Subgraphs are customizable GraphQL APIs to query blockchain data
+- Token API provides instant access to real-time token and NFT prices, balances, and metadata via REST endpoints
+- Amp is a blockchain-native database for building, publishing, and remixing smart contract datasets, which delivers real-time, multichain data that’s instantly queryable, locally testable, and queryable via SQL
+- Substreams enable high-performance data pipelines for real-time streaming of analytics and AI model training
+- Subgraphs and Token API both offer Model Context Protocol (MCP) servers to connect AI agents directly to blockchain data through natural language.
+Whether you're building cross-chain dashboards, AI trading agents, risk analytics tools, or composable data APIs, The Graph provides production-ready infrastructure that transforms raw blockchain data into intelligent, actionable insights. All tools are designed for speed: what traditionally takes weeks to build can be deployed in hours, letting you focus on creating compelling user experiences rather than wrestling with data infrastructure.
+Prizes
+🔊 Best Use of Amp Datasets ⸺ $6,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$2,000
+🥉
+3rd place
+$1,000
+Rewarding the most compelling end-to-end product built on Amp datasets.
+Example Use Cases:
+- Cross-chain portfolio dashboard that aggregates wallet positions and liquidity using Amp token datasets.
+- Risk analytics or MEV monitor that visualizes transaction patterns or protocol surface exposure.
+- NFT trait liquidity explorer that ranks collections by floor depth and trading velocity using Amp NFT datasets.
+Qualification Requirements
+Builders should demonstrate how Amp datasets can power real-world insights, analytics, alerts, agent workflows, risk dashboards, or user experiences across DeFi, NFTs, RWAs, or AI.
+
+🤖 Best Use of The Graph for AI Use Cases ⸺ $2,000
+Connect The Graph’s products in AI or autonomous agent workflows, including Token API MCP, Subgraph MCP, or Substreams to train AI models.
+Example Use Cases:
+- Leverage The Graph’s Token API in ChatGPT 5 to create a new AI agent that pulls onchain data for a novel use cases like onchain accounting for a DAO or real-time trading across multiple chains
+- AI trading or monitoring agent that queries Token API price and liquidity data through the Token API MCP server.
+- Governance summarizer bot that pulls DAO data from Subgraphs MCP to generate natural-language updates.
+Qualification Requirements
+Builders should focus on one of the following:
+- intelligent data consumption
+- decision-making
+- automation using verifiable onchain data.
+
+Links and Resources
+Hackathon Resources
+https://thegraph.com/blog/hackathon-resources/
+↗
+✨ Best Use of Subgraph Advanced Features ⸺ $2,000
+Innovative use of two or more advanced Subgraph features (i.e. Subgraph Dev Mode, Composition, Aggregations, or Declarative eth_calls).
+Example Use Cases:
+- Real-time DeFi analytics Subgraph combining Aggregations + `eth_calls` to show onchain metrics like APR or TVL.
+- Composable Subgraph suite that merges multiple community Subgraphs for the same chain (DEXs, lending, governance) into a unified API.
+- Developer toolkit or Subgraph simulator that leverages Dev Mode to accelerate Subgraph iteration and testing during the hackathon.
+Qualification Requirements
+Projects should highlight faster development cycles, modular data design, and advanced querying powered by Subgraphs on The Graph Network using these new features.
+
+Links and Resources
+Hackathon Resources
+https://thegraph.com/blog/hackathon-resources/
+↗
+Workshop
+🛠️ Amp: Enterprise-Grade Blockchain Data tha...
+Edge & Node is introducing Amp, our next-generation infrastructure that turns blockchain data into an easily querya...
+
+This workshop is happening in-person
+04:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 5
+
+Symbiotic logo
+Symbiotic
+$10,000
+
+symbiotic.fi
+symbioticfi
+Open page →
+About
+Symbiotic is a universal staking protocol that powers cross-chain security.
+With the Relay SDK, developers can build apps that produce verifiable, stake-backed attestations – connecting off-chain compute, oracles, AI agents, and multi-chain actions.
+Builders can leverage Relay to secure their apps with real economic weight and settle results on any chain.
+Prizes
+📡 Best Use of Symbiotic Relay SDK ⸺ $10,000
+🥇
+1st place
+$4,000
+🥈
+2nd place
+$3,000
+🥉
+3rd place
+$2,000
+🏅
+4th place
+$1,000
+We’re awarding $10,000 to the best builders using the Symbiotic Relay SDK!
+Relay Apps let you create stake-secured attestations that connect off-chain computation, oracles, AI outputs or any other data/events to on-chain actions.
+Top 3 teams with the most creative, technically solid, and high market potential Relay Apps will share the prize pool.
+Qualification Requirements
+1. Submit a short demo video (up to 3 minutes) that walks through your project and shows it in action
+2. Project must integrate the Symbiotic Relay SDK to generate or verify a stake-backed attestation and showcase a functional prototype during judging
+3. Include a brief README.md describing your project’s purpose, features, and design choices
+4. Provide a public GitHub repo with clean code, documentation, and setup instructions
+5. Make your project testable – include a live link or clear steps for running it locally
+6. Ensure all required submission fields are completed before the final deadline
+(Optional) Show off your project in person at the Symbiotic booth
+
+Links and Resources
+Relay Quickstart
+https://docs2.symbiotic.fi/relay
+↗
+Learn Symbiotic
+https://docs2.symbiotic.fi/learn
+↗
+Resources
+Hacker Guide
+https://symbioticfi.notion.site/Symbiotic-ETH-Global-Buenos-Aires-2a581c079c178078b7d3d0de88e71928
+↗
+Workshop
+🛠️ Build verifiable off-chain apps powered b...
+Learn how to build and secure off-chain applications with Symbiotic Relay Apps – a framework for producing verifiab...
+
+This workshop is happening in-person
+05:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 5
+
+0G  logo
+0G
+$10,000
+
+https
+0g_labs
+Open page →
+About
+0G is the first decentralized AI operating system (dAIOS) that provides the complete infrastructure stack for building AI-powered applications on-chain. Developers can leverage 0G's four core components: 0G Storage, 0G DA (infinitely scalable data availability layer), 0G Compute Network (decentralized AI inference and training), and 0G Chain (EVM-compatible blockchain).
+Build anything from AI-powered dApps and intelligent NFTs to decentralized machine learning platforms and on-chain games. 0G offers necessary SDKs, making integration seamless for Web3 developers looking to add AI capabilities to their applications.
+Prizes
+🤖 Building Onchain AI dapps with 0G intelligent L1 ⸺ $10,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$2,500
+🥉
+3rd place
+$2,000
+🏅
+4th place
+$1,500
+🏅
+5th place
+$1,000
+Build something impossible elsewhere. This track celebrates developers who push the boundaries of what's possible by leveraging 0G's groundbreaking infrastructure stack.
+-------------------------------------
+What We're Looking For:
+Projects that showcase the unique advantages of 0G's technology:
+🔹 Infinite scalability through our DA layer
+🔹 High-throughput decentralized storage for data-intensive applications
+🔹 Decentralized AI compute network for verifiable, on-chain intelligence
+🔹 EVM compatibility for smart contract deployment
+The key question: Could your project exist without 0G? If the answer is no, you're on the right track.
+-------------------------------------
+Inspiration (Not Requirements):
+We're excited to see creative applications across any domain, including:
+🔹 AI agents with verifiable computation and permanent memory
+🔹 Decentralized ML training platforms with proof of contribution
+🔹 High-performance storage solutions for media, gaming, or scientific data
+🔹 On-chain games with AI-driven NPCs, procedural generation, or dynamic environments
+🔹 DeFi protocols enhanced with AI-powered risk analysis, yield optimization, or market predictions
+🔹 Decentralized social platforms with content moderation or recommendation engines
+-------------------------------------
+Mainnet Bonus:
+Projects that fully deploy their smart contracts and storage solutions to 0G Mainnet will receive extra points. Show us you're ready for production.
+Qualification Requirements
+Submission requirements:
+🔹 Project name and a short description
+🔹 Contract deployment addresses/Storage Hash
+🔹 Public GitHub repo (README + setup instructions)
+🔹 Demo video & live demo link (keep the video under 3 mins!)
+🔹 Explain which protocol features or SDKs you used
+🔹 Team member names and contact info (Telegram & X)
+
+Resources
+Builder Hub
+https://build.0g.ai
+↗
+Workshop
+Build an Onchain AI dapp with 0G's Inferencin...
+Build decentralized AI applications using 0G's verifiable inferencing and also utilizing its complementary stack of...
+
+This workshop is happening in-person
+03:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 5
+
+Octav logo
+Octav
+$10,000
+
+octav.fi
+octavfi
+Open page →
+About
+Octav is a blockchain data provider for digital asset managers. We deliver reporting-grade metrics such as NAV, portfolio composition, transaction flows, and performance attribution, enabling hedge funds, protocols, and asset managers to operate with the same standards of accuracy and control expected in traditional finance. Octav is trusted by over 150 of the worlds top digital asset managers including Golden Pear Capital, Lagoon, and Nayt.
+Prizes
+⚙️ Best Octav Widget ⸺ $5,000
+🥇
+1st place
+$3,000
+🥈
+2nd place
+$1,500
+🥉
+3rd place
+$500
+Awarded to the team that builds the most innovative, functional, and visually cohesive Octav Widget leveraging on-chain data. Projects must demonstrate how the widget extends the Octav dashboard experience through analytics, DeFi insights, or portfolio visualization while maintaining performance and usability. Evaluation will focus on creativity, utility, and implementation depth.
+Qualification Requirements
+1. Be built using Octav’s Widget Template.
+2. Integrate live on-chain or Octav API data.
+3. Function within the Octav dashboard environment (no standalone apps).
+4. Include at least one configurable user element (chart range, token, chain, etc.).
+5. Provide a public demo and GitHub repository showing widget source code.
+6. Be submitted before the hackathon deadline.
+
+Links and Resources
+Documentation
+https://docs.octav.fi/
+↗
+📱 Best App built using Octav API ⸺ $5,000
+Up to 2 teams will receive $2,500
+Awarded to the team that builds the most impactful and technically robust application powered by the Octav API. This prize recognizes projects that leverage Octav’s portfolio, wallet, transaction, and token endpoints to deliver real-time DeFi insights, analytics, or automation. Judges will evaluate innovation, data integration depth, and user experience in demonstrating how Octav’s infrastructure can power next-generation DeFi tools.
+Qualification Requirements
+1. Use the Octav API as a core data source (e.g., portfolio, wallet, transaction, or token data).
+2. Include at least one authenticated API call with a valid Octav key.
+3. Present a functional demo or hosted app that demonstrates live data usage.
+4. Incorporate meaningful data processing or visualization beyond raw API output.
+5. Provide a clear README or documentation explaining API endpoints used and app architecture.
+6. Be fully built within the hackathon timeframe and submitted before the deadline.
+7. Bonus consideration for AI integrations using Octav’s AI Development Framework for intelligent insights or autonomous DeFi actions.
+
+Links and Resources
+Documentation
+https://docs.octav.fi/
+↗
+Resources
+Documentation
+https://docs.octav.fi/
+↗
+Workshop
+🛠️ Build Widgets with Octav API
+Clarity for onchain human readable data is not always easy. Build widgets to help onchain user understand their po...
+
+This workshop is happening in-person
+03:30 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 1
+
+Anchorage Digital logo
+Anchorage Digital
+$10,000
+
+anchorage.com
+anchorage
+Open page →
+About
+Designed for builders, VisualSign makes it simple to render trustworthy signing flows, reduce cross-chain complexity, and ship safer UX—fast. Wallet and dapp teams can give users transparent approvals; protocol developers can define how complex transactions should appear across any VisualSign-aware wallet.
+Prizes
+📈 Most Strategically Valuable Integration ⸺ $5,000
+Using VisualSign the project must integrate with one of the "Top-Tier" protocols (example provided below). The prize will go to the top three teams with the best and most strategic use of VisualSign. This prize is not for the "coolest" or "most creative" hack, but is a targeted bounty to manufacture a high-quality, high-prestige case study.
+Please read the qualification requirements carefully.
+Qualification Requirements
+This $5,000 prize effectively commissions the creation of a "killer feature" demo. The winning project will be the tangible proof-of-concept shown to other wallets and dApps, demonstrating that VisualSign can successfully render complex, high-value transactions on a real-world target.
+Evaluation will be based on the complexity of the transactions parsed. A parser for a simple swap is far less valuable than one that clearly renders complex, multi-step interactions such as stake, borrow, delegate, or create_pool.
+Top tier protocols to integrate with: Aave, Curve Finance, EigenLayer, Ethena, Ether.Fi, Lido, SparkLend, Uniswap. If there is a specific project that you work with and can see VisualSign integrated with in a strategically valuable way please use that!
+
+Links and Resources
+Visualization Language / Spec
+https://github.com/anchorageoss/visualsign-parser/tree/main/src/visualsign
+↗
+Wallet Integration Guide
+https://github.com/anchorageoss/visualsign-turnkeyclient/blob/main/WALLET_INTEGRATION_GUIDE.md
+↗
+🤝 Utilize VisualSign for dapps ⸺ $5,000
+Up to 4 teams will receive $1,250
+Use VisualSign across any dapp of your choice. The goal is to see all that VisualSign can interact with! We’re calling on builders to create with VisualSign across dapps, and to reimagine secure signing.
+Qualification Requirements
+This PR must contain a working VisualSign-parser chain module for ethereum for at least one function on a unique Ethereum dApp.
+Include the code that you're using to decode the raw transactions, including at least a valid transaction from a block explorer as well as a test that displays clearly what the user should see. You should show what the decoded representation looks like in the human readable mode in your pull request to qualify for the award.
+
+Links and Resources
+Wallet Integration Guide
+https://github.com/anchorageoss/visualsign-turnkeyclient/blob/main/WALLET_INTEGRATION_GUIDE.md
+↗
+Visualization Language / Spec
+https://github.com/anchorageoss/visualsign-parser/tree/main/src/visualsign
+↗
+Workshop
+🛠️ Anchorage Digital Workshop
+Stop Blind Signing With VisualSign. Enhance the security and clarity of your signing flows. Join Anchorage Digital ...
+
+This workshop is happening in-person
+05:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 2
+
+vlayer logo
+vlayer
+$10,000
+
+vlayer.xyz
+vlayer_xyz
+Open page →
+About
+vlayer is a cryptographic protocol that connects the offchain web with onchain trust. It transforms private data from web, email, and on-chain sources into verifiable proofs using Zero Knowledge Proofs (ZKPs) and Multi-Party Computation (MPC). Developers can securely verify and integrate data into Ethereum smart contracts without exposing sensitive information, powering applications in identity, reputation, finance, and data verification.
+vouch, built on vlayer, uses Web Proofs (zkTLS) to verify user-owned data directly from trusted online platforms without ever accessing or storing sensitive information. Users generate cryptographic attestations locally on their devices through the vouch Chrome extension or mobile app (iOS and Android), ensuring every verification is private, tamper-proof, and transparent.
+Build with vlayer to create applications that bring real-world data on-chain - privately, securely, and verifiably.
+Prizes
+🧠 Best ZK Proving dApp ⸺ $4,000
+Build the next generation of privacy-preserving applications using vlayer’s ZK Prover Server - a REST API that compresses Web Proofs into zero-knowledge proofs (ZKPs). Prove the validity of real-world web data without revealing its contents. Think: privacy-preserving verification for the internet 🌍
+💡 Example Use Cases:
+- Real-World Data Feeds: Feed verified web data (e.g., commodity prices, weather APIs) into smart contracts.
+- Proof of Engagement: Prove you posted, commented, or followed someone on social media - and verify it on-chain.
+- Reputation Scoring: Aggregate verified actions across platforms into a unified, on-chain reputation score.
+- Trustless Oracles: Combine vlayer proofs with existing oracles (like Chainlink or Redstone) for hybrid verification.
+Qualification Requirements
+This application has it all - a great idea and a best-in-class implementation. To qualify, the project must use vlayer’s Web Prover Server (POST /compress-web-proof and POST /verify-zk-proof), and incorporate both Prover and Verifier smart contracts. Developers must also provide proof of RISC Zero contract deployment.
+
+⚙️ Best Server-Side Proving dApp ⸺ $3,000
+🥇
+1st place
+$2,000
+🥈
+2nd place
+$1,000
+Build something awesome using vlayer’s Web Prover Server - a REST API for generating and verifying cryptographic web proofs with the TLSNotary (TLSN) protocol. With just a few lines of code, you can prove that data came from any public endpoint or OAuth call (like Reddit, GitHub, Twitter, or an exchange API) - without exposing your private information. Turn any HTTPS response into a trustless proof verifiable by anyone 🤯
+💡 Example Use Cases:
+- Reddit Identity Verifier: Prove your Reddit username by generating a TLS proof of your /api/v1/me profile.
+- GitHub Contributor Badge: Verify open-source contributions directly from the GitHub API.
+- Proof of Assets: Generate Web Proofs from exchange APIs (like Binance or Coinbase) to show account balances without revealing personal info.
+Qualification Requirements
+The application must generate Web Proofs using vlayer’s Web Prover Server for server-side proof generation and verification (POST /prove and POST /verify).
+
+🪪 Best vouch Integration ⸺ $2,000
+vouch enables applications to verify user-owned data from internet platforms without accessing or storing sensitive information. Using vouch’s existing data sources - or a new one you create - integrate vouch Web Proofs into your application to unlock privacy-preserving credentials and verification.
+💡 Example Use Cases:
+- Identity & Age Verification Credential: Verify age or residency without exposing personal details, and issue a vouch claim such as “User X is over 18” or “Resident in Jurisdiction J.”
+- Social Media Engagement Credential: Verify a user’s follower count, posts, or community memberships (e.g., Reddit, Twitter), and issue a vouch attestation like “User X has >1,000 followers and posted in r/web3.”
+Qualification Requirements
+The application must use vlayer’s client-side proving service (vouch) to generate Web Proofs. Developers may use existing data sources or create new ones.
+
+🔧 BONUS TRACK: Build a Custom vouch Data Source ⸺ $1,000
+Push the boundaries of what vouch can do by creating a brand new data source for the vouch catalog.
+This track rewards builders who go beyond integration - extending the protocol itself with new verified data types, APIs, or attestation logic that others can reuse across the ecosystem.
+💡 Example Use Cases:
+- YouTube Creator Credential: Add a data source that attests to a creator’s subscriber count, view count, or verified channel status.
+- Financial Data Source: Build integrations for platforms like Robinhood, Revolut, or Kraken to verify balances, transactions, or activity metrics.
+- Academic Credential Source: Integrate APIs from Coursera, edX, or university verification portals to attest to course completions or degrees.
+Qualification Requirements
+Must create a new vouch data source in the vouch catalog that demonstrates a new use case and/or improves the protocol.
+
+Resources
+vlayer Documentation
+https://docs.vlayer.xyz/
+↗
+vouch Documentation
+https://docs.getvouch.io/
+↗
+vouch Catalog
+https://app.getvouch.io/catalog
+↗
+vouch SDK
+https://www.npmjs.com/package/@getvouch/sdk
+↗
+vlayer Getting Started Tutorial
+https://docs.vlayer.xyz/server-side/examples/github-example
+↗
+vouch Example Repo
+https://github.com/vlayer-xyz/vouch-github-verifier
+↗
+vlayer monorepo
+https://github.com/vlayer-xyz
+↗
+Creating a vouch datasource
+https://docs.getvouch.io/creating-datasources
+↗
+zk github contributor tutorial
+https://docs.vlayer.xyz/blockchain/examples/zk-github-example
+↗
+vlayer zk proving docs
+https://docs.vlayer.xyz/blockchain/introduction
+↗
+Self logo
+Self
+$10,000
+
+self.xyz
+selfprotocol
+Open page →
+About
+Self Protocol is a privacy-first, open-source identity protocol powered by zero-knowledge proofs. It allows developers to verify users’ identity and humanity (including sybil resistance, age, country, and sanctions checks) without exposing private data.
+Prizes
+🏆 Best Self onchain SDK integration ⸺ $9,000
+🥇
+1st place
+$5,000
+🥈
+2nd place
+$2,500
+🥉
+3rd place
+$1,500
+Create a project that uses our onchain verification for disclosure proofs. We are looking for interesting use cases of using the Self onchain SDK in your contracts.
+Self Smart contracts verify proofs, manage a merkle tree of identity commitments and allow for onchain disclosure of data while guaranteeing the permissionless aspect of the protocol.
+Using the Self.xyz SDK, allows a user to disclose their country, age (or range), that they are not on OFAC or from a sanctioned country, and verify that proof that onchain on the Celo network, or offchain, without sharing any private information with third parties.
+Qualification Requirements
+To be eligible, projects must:
+- implement Self onchain SDK (right now only on Celo mainnet and testnet)
+- proof needs to work
+
+Links and Resources
+On Chain Integration Guide
+https://docs.self.xyz/contract-integration/basic-integration
+↗
+Airdrop Example
+https://docs.self.xyz/contract-integration/airdrop-example
+↗
+Happy Birthday Example
+https://docs.self.xyz/contract-integration/happy-birthday-example
+↗
+Soulbound Token Example
+https://github.com/selfxyz/self-sbt
+↗
+Crosschain Example
+https://github.com/selfxyz/self-layerzero-example
+↗
+🏆 Best Self offchain SDK Integration ⸺ $1,000
+Create a project that uses our off chain/backend verification for disclosure proofs.
+Qualification Requirements
+To be eligible projects must:
+- implement Self offchain SDK
+- proof needs to work
+
+Links and Resources
+Backend (offchain) Integration
+https://docs.self.xyz/backend-integration/basic-integration
+↗
+Resources
+Website
+https://self.xyz/
+↗
+Docs
+https://docs.self.xyz/
+↗
+Playground
+https://playground.self.xyz/
+↗
+Test Playground (for Mock Passports)
+https://playground.staging.self.xyz/
+↗
+Celo Sepolia Faucet
+https://faucet.celo.org/celo-sepolia
+↗
+App - Google Play Store
+https://play.google.com/store/apps/details?id=com.proofofpassportapp&pli=1
+↗
+App - Apple Store (iOS)
+https://apps.apple.com/us/app/self-zk-passport-identity/id6478563710
+↗
+Self MCP Server
+https://github.com/selfxyz/self-mcp
+↗
+Ethereum Foundation logo
+Ethereum Foundation
+$6,000
+
+ethereum.foundation
+ethereumfndn
+Open page →
+About
+The Ethereum Interop Layer is an on-chain protocol and a set of accompanying standards that allows users and applications to interact with the entire Ethereum ecosystem, instead of interacting with separate fragmented chains and rollups.
+The EIL protocol is closely integrated with ERC-4337 and build on top of Account Abstraction to achieve a near-universal Chain Abstraction.
+The EIL SDK is a toolkit that allows you to easily interact with this protocol in your application
+Prizes
+🧱 Best use of the EIL SDK ⸺ $6,000
+🥇
+1st place
+$5,000
+🥈
+2nd place
+$1,000
+Build the best application using the EIL SDK, which is designed to make ETH and ERC-20 tokens seamlessly transferable across all L2 chains. Projects should demonstrate seamless token movement across multiple chains. The most innovative, creative and technically sound implementations of the EIL SDK will win. As the EIL SDK is designed to boost usability, good UX will also play a role. Judges will evaluate creativity, functionality, and how effectively the project leverages the EIL SDK.
+Qualification Requirements
+Must demonstrate actual usage of the EIL SDK with relevant transaction payloads attached in the submission.
+
+Links and Resources
+EIL documentation
+http://docs.ethereuminteroplayer.com/
+↗
+Workshop
+Watch Video →
+🛠️ Ethereum Interop Layer (EIL) SDK Workshop
+build and extend a real DeFi protocol using the EIL SDK. We’ll walk through the architecture, implement a complete ...
+
+This workshop is happening in-person
+05:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 3
+
+Circles logo
+Circles
+$5,000
+
+aboutcircles.com
+aboutcircles
+Open page →
+About
+Circles is building a social money, enabling people to create their personal self-owned currency, and build fair community currencies.
+Prizes
+💵 Build a P2P Loan Market based on Circles Network ⸺ $3,500
+Build a peer-to-peer lending platform that uses Circles' trust graph as a credit scoring mechanism. Build systems where loan terms, interest rates, and collateral requirements are determined by trust relationships rather than traditional credit scores, enabling under-collateralized lending between trusted community members. Loans could be taken out in CRC or in other collateral, such as stables. Users’ personal CRC might (or might not) figure in the scheme as interest token, with the limited rate of personal CRC creation limiting the rate at which loans can be taken out.
+Qualification Requirements
+- Use of Relative Trust score api endpoint (optional)
+- GUI for the loan experience (trust score page, borrowing, lending)
+
+Links and Resources
+Circles Relative Trust Score APIs
+https://squid-app-3gxnl.ondigitalocean.app/aboutcircles-advanced-analytics2/docs#/Scoring/batch_relative_trust_score_scoring_relative_trustscore_batch_post
+↗
+Inspiration App Example
+https://world.org/ecosystem/app_ebdd8475db3238254fca5b25ccba266a
+↗
+💵 Best dApp to build a x402 × Circles CRC checkout experience ⸺ $1,500
+Build a checkout system that combines x402's HTTP-native payment protocol with Circles CRC tokens. Create a seamless payment experience where users can pay with personal or group CRC currencies, with payments automatically routed through the trust network to reach merchants. Implement this using Circles Organization accounts as payment processors that facilitate transactions and handle the x402 protocol layer for instant payment verification and settlement.
+You can also choose to combine this with AI agents, which can either control Circle Organisation accounts or act on behalf of a human (e.g. as a co-signer in a safe registered as Human).
+Qualification Requirements
+- Use of Circles SDK
+- Full implementation from start to finish for the checkout experience
+
+Links and Resources
+x402
+https://x402.gitbook.io/x402
+↗
+Circles Org Account Docs
+https://docs.aboutcircles.com/developer-docs/circles-avatars/organization-avatars
+↗
+Resources
+Circles Documentation
+https://docs.aboutcircles.com/
+↗
+Circles App
+https://app.aboutcircles.com/
+↗
+Metri Wallet
+https://app.metri.xyz/
+↗
+Rootstock logo
+Rootstock
+$5,000
+
+rootstock.io
+rootstock_io
+Open page →
+About
+Rootstock is the first Bitcoin sidechain that brings Ethereum-compatible smart contracts to the Bitcoin network. It combines Bitcoin’s unmatched security and liquidity with the flexibility of the EVM, enabling developers to build scalable DeFi, NFT, and dApp solutions powered by Bitcoin.
+Prizes
+🏆 Everyday DeFi ⸺ $2,000
+Up to 2 teams will receive $1,000
+Build practical DeFi applications on Rootstock and/or RIF technologies. We’re looking for accessible, efficient tools that redefine everyday finance, with a special emphasis on generating native bitcoin yield.
+🔸Yield farming strategies
+🔸Lending protocols
+🔸Decentralized exchanges (DEXs)
+🔸Liquidity pools
+Qualification Requirements
+Qualification Requirements
+- Smart contract deployed in Rootstock and at least 2 on-chain (testnet) successful transactions.
+- Projects must have a description and a GitHub repository with a descriptive README.
+- The README should include:
+1) Clear short one-sentence description of your submission.
+2) Short description of what you integrated Rootstock with and how.
+3) Short description of the team and their backgrounds.
+4) Clear instructions for testing the integration.
+5) Feedback describing your experience with building on Rootstock.
+6) A short video demo or slide deck.
+
+🏆 Freestyle Track ⸺ $2,000
+Up to 2 teams will receive $1,000
+Build dapps on Rootstock and unleash your creativity. We’re looking for original solutions. Some examples include:
+🔸DeFi Automation Agents
+🔸Smart Contract Assistants
+🔸Cross-Chain Interoperability Agents
+🔸Decentralized Governance Helpers
+Qualification Requirements
+Qualification Requirements
+- Smart contract deployed in Rootstock and at least 2 on-chain (testnet) successful transactions.
+- Projects must have a description and a GitHub repository with a descriptive README.
+- The README should include:
+1) Clear short one-sentence description of your submission.
+2) Short description of what you integrated Rootstock with and how.
+3) Short description of the team and their backgrounds.
+4) Clear instructions for testing the integration.
+5) Feedback describing your experience with building on Rootstock.
+6) A short video demo or slide deck.
+
+🏆 RIF Economy ⸺ $1,000
+Build anything that puts the RIF token to work on Rootstock; bonus points for slick, one‑step UX and creative token utility.
+🔸RIF one‑click staking; bridge or swap then stake in a single flow
+🔸RIF staking inside a Telegram mini‑app; think MEW‑style but in TG
+🔸AI bot that answers English questions by querying Collective Graph subgraphs
+🔸RIF‑POAPs; mint event badges or sub‑domain NFTs paid in RIF
+🔸Social‑content rewards in RIF; track on‑chain engagement then tip users
+🔸x402 payments; ship a lightweight SDK that lets devs accept USDRIF with Coinbase’s agentic standard
+Qualification Requirements
+Qualification Requirements
+- Smart contract deployed in Rootstock and at least 2 on-chain (testnet) successful transactions.
+- Projects must have a description and a GitHub repository with a descriptive README.
+- The README should include:
+1) Clear short one-sentence description of your submission.
+2) Short description of what you integrated Rootstock with and how.
+3) Short description of the team and their backgrounds.
+4) Clear instructions for testing the integration.
+5) Feedback describing your experience with building on Rootstock.
+6) A short video demo or slide deck.
+
+Resources
+Developer Docs
+https://dev.rootstock.io/
+↗
+Hackathon Cheat Sheet
+https://cheatography.com/devrelrootstock/cheat-sheets/rootstock-hackathon/
+↗
+Hackathon Resources
+https://dev.rootstock.io/resources/hackathon/
+↗
+Quick Starts
+https://dev.rootstock.io/developers/quickstart/
+↗
+Replit Templates
+https://replit.com/@rootstockDevX
+↗
+Rootstock RPC API
+https://dev.rootstock.io/tools/rpc-api/
+↗
+Rootstock Explorer
+https://explorer.rootstock.io/
+↗
+How to get RBTC that you need to interact with the rootstock ecosystem
+https://blog.rootstock.io/noticia/smart-bitcoin-3-easy-ways-to-get-rbtc/
+↗
+How to port your Ethereum dapp to Rootstock
+https://dev.rootstock.io/kb/ethereum-dapp-to-rsk/
+↗
+RSKj for Developers
+https://dev.rootstock.io/kb/rskj-for-developers/
+↗
+Developer Tooling
+https://dev.rootstock.io/dev-tools/
+↗
+Workshop
+The Developer Gateway to Bitcoin’s DeFi
+Rootstock is Bitcoin’s EVM-compatible sidechain, designed for builders who want to create decentralized apps secure...
+
+This workshop is happening in-person
+03:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 4
+
+Aztec logo
+Aztec
+$5,000
+
+aztec.network
+aztecnetwork
+Open page →
+About
+Aztec is the privacy-native Layer 2 on Ethereum. It empowers developers to build applications that protect user privacy while enabling compliance. Backed by a $100M Series B led by a16z, Aztec is led by a team of world-class researchers and cryptographers who invented trustless client-side proving—the innovation that makes privacy-preserving apps on mobile possible. Using zero-knowledge proofs (ZKPs) and the Noir open-source, Rust-like programming language, Aztec is building a secure and scalable privacy layer for the decentralized future.
+Prizes
+⛓️ Privacy Across Chains ⸺ $2,000
+Privacy becomes more powerful across chains. Build applications that compose protocols across chains through Aztec's privacy layer to discover entirely new use cases that only work when privacy is composable across ecosystems. Leverage our bridge partners (Holonym, Substance Labs, Train, Wormhole and more) to create cross-chain experiences that weren't possible before.
+Qualification Requirements
+• Must use Aztec Devnet's latest version
+• Must integrate with at least one of our bridge partners: Holonym, Substance Labs, Train or Wormhole
+• Application must leverage the Aztec network to either relay messages or send funds across chains
+• Must clearly demonstrate how Aztec's privacy layer enables the cross-chain interaction (not just use Aztec as an additional chain)
+
+Links and Resources
+Substance Labs (Intents) Github
+https://github.com/substance-labs/aztec-evm-bridge?tab=readme-ov-file
+↗
+Train (HTLC) Github
+https://github.com/TrainProtocol/contracts/tree/dev/chains/aztec
+↗
+Train (HTLC) Docs
+https://docs.train.tech/protocol/introduction
+↗
+Substance Labs (Intents) Docs
+https://substance-labs.gitbook.io/aztec-evm-bridge/
+↗
+Wormhole (Messaging) Docs
+https://nethermind.notion.site/Wormhole-on-Aztec-documentation-Quick-Start-Guide-263360fc38d0804bba2afb4a33cbbca6
+↗
+🫆 Identity Infrastructure ⸺ $2,000
+Only with native privacy can identity infrastructure work on-chain, because sensitive information simply cannot be exposed. Build on Aztec to create identity systems where people host credentials, attestations, or identity data that they can leverage across applications, whether on Aztec itself or composed cross-chain. This could be credential systems, DID infrastructure, verification mechanisms, aggregated attestations from multiple sources (like combining OpenBanking.nr and ZKPassport), or novel ways to prove facts about yourself without exposing everything.
+Qualification Requirements
+• Must use Aztec Devnet's latest version
+• Must either compose in novel ways with existing identity applications like ZKPassport or create new ways of proving facts about yourself (attesting)
+• Must clearly demonstrate how Aztec's privacy layer becomes the identity infrastructure (not just use Aztec as an additional chain)
+• Identity data and control must remain with the user, not dependent on a centralized authority
+- Submission must include documentation or demo showing how end users would interact with and manage their identity
+
+Links and Resources
+ZKPassport
+https://zkpassport.id/
+↗
+ZKPassport Docs
+https://docs.zkpassport.id/intro
+↗
+Anon Aadhaar
+https://github.com/anon-aadhaar/anon-aadhaar-noir
+↗
+Self
+https://github.com/selfxyz/self
+↗
+Rarimo
+https://github.com/rarimo/passport-zk-circuits-noir
+↗
+🤯 Rethinking What's Possible ⸺ $1,000
+Privacy unlocks a design space we haven't fully explored yet. We know there are applications that become possible with native privacy that we haven't seen before. Build the thing that makes us say 'oh wow, that's why privacy matters.' This could be gaming mechanics, governance systems, DeFi patterns we haven't seen, confidential business logic, or something we haven't thought of. The constraint is: it should only be possible because Aztec has native privacy.
+Qualification Requirements
+• Must use Aztec Devnet's latest version
+• Must clearly demonstrate how this application can only exist due to Aztec's privacy layer (not just use Aztec as an additional chain)
+• Must include clear documentation explaining why this application requires native privacy and how Aztec's specific capabilities enable it
+• Should demonstrate a testable implementation or working prototype (not just concept/wireframes)
+
+Links and Resources
+Aztec Horizon
+https://github.com/AztecProtocol/horizon
+↗
+Resources
+Awesome Aztec
+https://github.com/AztecProtocol/awesome-aztec
+↗
+Awesome Noir
+https://github.com/noir-lang/awesome-noir
+↗
+Aztec Documentation
+https://docs.aztec.network/devnet?utm_source=ethglobal&utm_medium=referral&utm_campaign=devconnect_2025
+↗
+Wonderland's Aztec Handbook
+https://aztec.handbook.wonderland.xyz/
+↗
+Aztec Starter
+https://github.com/AztecProtocol/aztec-starter
+↗
+Aztec Resources 1-pager
+https://hackmd.io/@joshc/B1gp2dneZl
+↗
+Privy logo
+Privy
+$5,000
+
+privy.io
+privy_io
+Open page →
+About
+Privy provides modular and flexible wallet infrastructure that helps developers build secure and scalable user-friendly apps on crypto rails with low-level APIs and end-to-end SDKs.
+Prizes
+🤖 Best App Using x402 with Privy ⸺ $1,700
+For the app that shows what’s possible when payments become programmable. This prize goes to a team that uses x402 + Privy to make money move automatically in service of the user—whether that’s recurring actions, agentic flows, or onchain logic that just works without extra clicks. We’re looking for products that make automation feel natural, safe, and invisible.
+Qualification Requirements
+- Must be built using Privy’s APIs or SDK.
+- Must use Privy to create and manage the user’s embedded wallet.
+- Must integrate x402 authorization in at least one core user flow (e.g., scheduled/recurring actions, automated payments, agent-driven transactions).
+
+Links and Resources
+x402 docs
+https://docs.privy.io/recipes/x402
+↗
+⛽️ Best App Using Native Gas Sponsorship with Privy ⸺ $1,700
+For the app that proves users shouldn’t worry about gas ever. This prize rewards the cleanest implementation of Privy’s native gas sponsorship to deliver a frictionless experience: no pop-ups, no approvals, no confusion. Just clear actions that feel instant. Build something your non-crypto friends could use without knowing a transaction even happened.
+Qualification Requirements
+- Must be built using Privy’s APIs or SDK.
+- Must use Privy for embedded wallet auth and management.
+- Must enable Privy’s native gas sponsorship and demonstrate a sponsored transaction as part of the core user experience.
+- Sponsored flows must use Privy’s sponsorship configuration (no custom gas abstraction logic).
+
+Links and Resources
+Gas sponsorship docs
+https://docs.privy.io/transaction-management/gas-management#gas-management
+↗
+✍️ Best App Using Signers with Privy ⸺ $1,600
+For the app that nails trust, speed, and continuity. Session signers let apps take actions on a user’s behalf even when they’re offline without requiring constant re-approvals. This prize goes to the team that uses session keys to deliver a fluid, high-velocity experience. Think one-tap payments, rapid-fire trading, or any workflow where every second counts.
+Qualification Requirements
+- Must be built using Privy’s APIs or SDK.
+- Must use Privy for embedded wallet authentication and management.
+- Must generate and authorize a Privy session signer key for the user.
+- Must demonstrate at least one meaningful delegated action using the session signer (e.g., transaction execution without user re-approval, background/automated actions, offline-triggered flows, or high-frequency interactions like trading or payments).
+
+Links and Resources
+Session signers docs
+https://docs.privy.io/wallets/using-wallets/session-signers/overview
+↗
+Curvegrid logo
+Curvegrid
+$5,000
+
+curvegrid.com
+curvegridinc
+Open page →
+About
+Curvegrid makes blockchain development faster, easier, and more efficient so you can focus on what truly matters: building great applications.
+
+Our flagship product, MultiBaas, provides a powerful backend for Web3 developers, offering:
+🗂️ Event indexing – Query blockchain data instantly
+⛅ Cloud wallets – Secure, API driven wallet management
+🧸 Transaction management – Simplified contract interactions
+🪝 Webhooks & APIs – Automate & integrate your application
+⛓️ Support for 18+ EVM chains – Including Base, Celo, Filecoin, Gnosis, Polygon, Zircuit, and more
+Prizes
+🏦 Best RWA Tokenization Project ⸺ $2,000
+Turn real-world assets into programmable, composable digital primitives.
+
+Tokenized RWAs are rapidly becoming one of the most impactful Web3 use cases: from on-chain treasuries and money markets to supply-chain assets, invoices, or even real estate shares. This prize is for builders to bring asset value on-chain using MultiBaas as the backend infrastructure. What kind of creative things can you do with tokens?
+
+💡 Some Ideas to Explore:
+🏦 On-chain Treasuries – Tokenize treasury bills or money-market style assets with transparent yield reporting
+📄 Invoice Financing – Build tokenized invoice marketplaces with automated cashflow tracking
+🏠 Real Estate Shares – Fractional ownership, secondary trading, or compliance-aware transfer logic
+📦 Supply Chain Assets – Track movement, custody, and settlement by tokenizing commercial goods
+🪙 Stablecoins – Create an interface for minting and managing stablecoins, including compliance aspects, yield tracking, or anything else you think useful in the stablecoin world
+Qualification Requirements
+An explanation of each MultiBaas feature you used with:
+- The feature name
+- What you used it for
+- A link to a line in your repo demonstrating the usage
+
+📊 Best Digital Asset Dashboard ⸺ $2,000
+More and more people are managing portfolios of tokens, whether you’re an individual with personal investments, a VC with token agreements, or a business getting paid in tokens. Are there upcoming DAO votes? Actions to take for vesting tokens? How do you visualise your holdings in order to understand their value and take actions to manage them. MultiBaas provides the backend, you provide the dashboard!
+
+💡 Some Ideas to Explore:
+📊 RWA Analytics – How are RWAs performing including ownership distribution, valuations, and liquidity flows
+🏦 Treasury Management – How do you track the assets in your portfolio and liquidate or exchange them efficiently in different markets
+📈 DeFi Analytics – Real-time DEX activity, yield curves, liquidity movements
+🌉 Cross-Chain Views – Compare assets or contracts across chains with unified views
+Qualification Requirements
+An explanation of each MultiBaas feature you used with:
+- The feature name
+- What you used it for
+- A link to a line in your repo demonstrating the usage
+
+⛓️ Best Dapp on Base, Celo, Filecoin, Flare, Gnosis, Polygon, or Zircuit ⸺ $1,000
+Up to 2 teams will receive $500
+Build faster. Deploy smarter. Win more.
+
+MultiBaas makes it easy to develop on Base, Celo, Filecoin, Flare, Gnosis, Polygon, and Zircuit, so you can focus on innovation rather than blockchain complexities. Whether you're creating DeFi protocols, NFT apps, SocialFi platforms, or on-chain governance tools, MultiBaas helps you get there faster—and might even give you an edge in other hackathon prizes!
+Qualification Requirements
+An explanation of each MultiBaas feature you used with:
+- The feature name
+- What you used it for
+- A link to a line in your repo demonstrating the usage
+
+Resources
+Quickstart Guide to MultiBaas
+https://docs.curvegrid.com/multibaas/getting-started/quickstart
+↗
+Workshop
+🛠️ Build compliance enabled RWA projects wit...
+These are not your parents’ tokens. Today’s tokens must meet the needs of complex regulatory frameworks and demandi...
+
+This workshop is happening in-person
+03:00 PM UTC-03 — Friday, Nov 21, 2025 in Workshop Room 2
+
+Babylon Labs logo
+Babylon Labs
+$5,000
+
+babylonlabs.io
+Open page →
+About
+Babylon Labs is building the Bitcoin Trustless Vault — a protocol that allows Bitcoin holders to participate in DeFi ecosystems without ever relinquishing custody of their BTC. This new primitive enables Bitcoin to become truly composable with other assets and ecosystems in a trust‑minimized way.
+Your challenge: design or prototype integrations that showcase new DeFi use cases for the Bitcoin Trustless Vault on Ethereum.
+Note that this product is still under active development and auditing and not yet open-source.
+💡 Challenge Focus
+We want builders to imagine what happens when BTC can seamlessly and securely back DeFi protocols. Think about how Vault‑secured BTC could power:
+- Lending / Borrowing protocols (trustless BTC‑collateralized loans)
+- Stablecoins (BTC‑backed or partially collateralized stable assets)
+- Derivatives or Perpetual Futures (BTC‑based synthetic exposure)
+- Insurance / Risk Products (slashing coverage, principal protection)
+- Yield Aggregators / Restaking systems (BTC earning on‑chain yield)
+Your proposal should explain both the financial mechanism (how the Vaulted BTC interacts with an Ethereum DeFi primitive) and the cryptoeconomic rationale (why it’s safe, decentralized, and novel).
+Prizes
+🎯 Bitcoin Trustless Vault in Ethereum DeFi ⸺ $5,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+🥉
+3rd place
+$1,000
+- A concise 2–5 page concept note or design brief
+- Architecture and flow diagrams showing integration with the Bitcoin Trustless Vault
+- Optional risk model or system sketch (e.g., vault collateralization, protocol parameters)
+- Optional frontend or CLI demo of the application frontend
+- Links to whitepapers, mockups, or GitHub prototypes if available
+Qualification Requirements
+Technical Insight & Feasibility – how clearly the design demonstrates secure trustless integration.
+DeFi Composability & Innovation – how creatively the Vault is used with existing Ethereum primitives.
+Economic Value & Scalability – potential for real on‑chain utility, TVL, or user adoption.
+Documentation & Clarity – quality of explanation, diagrams, and project organization.
+
+Resources
+Bitcoin Trustless Vault Whitepaper
+https://docs.babylonlabs.io/papers/trustless-bitcoin-vaults.pdf
+↗
+Babylon Staking Transactions Spec
+https://docs.babylonlabs.io/guides/specifications/staking_transactions/
+↗
+Bitcoin Wallet Integration
+https://docs.babylonlabs.io/developers/wallet_integration/bitcoin_wallet_integration/
+↗
+Babylon Genesis Chain
+https://docs.babylonlabs.io/developers/babylon_genesis_chain/
+↗
+Ronin logo
+Ronin
+$5,000
+
+roninchain.com
+ronin_network
+Open page →
+About
+Ronin is the #1 EVM-compatible gaming chain, and is expanding to a full-fledged consumer ecosystem. If you’re looking for real users to give you dApp a shot, you’re in the right place at the right time.
+• Top gaming chain by real users with 800K MAU and a crypto native userbase
+• Battle-tested distribution network spanning Southeast Asia, USA, and Latin America
+• Easy mainnet deployment with robust developer tools and third-party infrastructure available
+• Cult-like community that loves to experiment with new projects
+• Possible grant and BD support from Sky Mavis, inventors of Axie Infinity and Ronin Network
+Prizes
+🎉 Best Consumer/AI dApp on Ronin ⸺ $5,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+🥉
+3rd place
+$1,000
+We’re looking for sticky, culture-driven tools/products — something fun, useful, and interactive, leveraging AI tools & Agents.
+E.g.
+• Gaming Tools > Guild/Clan management dashboard/Portfolio tracker tailored for gamers
+• SocialFi > Social Speculation platforms, "Proof of Skill" MMR Matching platforms
+• AI Agents & Tooling > AI gaming assistants, NFT Creation platforms
+OR anything experimental that enhances the Ronin experience.
+Additional points if teams tap into the Ronin Culture (Integrating & Building for existing Ronin Games/NFTs/Ecosystem)
+Qualification Requirements
+- Attach a Video Demo (Loom) & a working Frontend/UI with the github REPO.
+- Deploy a smart contract & run transactions on Saigon testnet/Ronin mainnent
+- Integrate Ronin’s Wallet SDK (onboarding, auth, session management)
+
+Links and Resources
+Get Mainnet RON
+https://docs.google.com/forms/d/e/1FAIpQLSdmQbqdkOXG4V9BKJ_M6lihIn-kUda-u85kQM5dgzYqoiLCog/viewform?usp=dialog
+↗
+TG Support
+https://t.me/+yZB8xadJ5gYwNGNk
+↗
+Resources
+TG Support Channel
+https://t.me/+yZB8xadJ5gYwNGNk
+↗
+Ronin Network Information
+https://docs.roninchain.com/developers/network/
+↗
+Quickstart Guide
+https://docs.roninchain.com/developers/quickstart
+↗
+Ronin Dune Dashboard
+https://dune.com/ronin/ronin-overview-dashboard
+↗
+sqd logo
+sqd
+$5,000
+
+sqd.ai
+hellosqd
+Open page →
+About
+SQD is a decentralized data tooling platform powered by a 3PB+ multi-chain data lake.
+With our new Pipes SDK, you can build custom data pipelines for real-time and historical analysis—tailoring your data layer to your dApp’s exact needs.
+Prizes
+🏆 Best Overall Project using the Pipes SDK ⸺ $3,500
+Your project must use the Pipes SDK in a meaningful way.
+Judgement criteria is as follows:
+- How central and effective is the use of the Pipes SDK?
+- Is the project working, demo-ready, and usable?
+- Does it explore new ideas or unexpected use cases?
+- Is it easy to understand, replicate, and demo?
+Qualification Requirements
+1. Provide a GitHub repository with source code and documentation.
+2. Include a demo video (max 5 minutes) showcasing the working prototype.
+3. Add a README explaining:
+- How you used the Pipes SDK
+- What problem your project solves
+- Any next steps or roadmap
+- Feedback from using the Pipes SDK (what was your experience? How was it?)
+4. Teams must submit by the official ETHGlobal Buenos Aires deadline.
+
+Links and Resources
+Pipes SDK
+https://github.com/subsquid-labs/pipes-sdk-docs
+↗
+👩‍🎨 Most Creative/ Innovative Use Case of the Pipes SDK ⸺ $1,000
+The Pipes SDK is used to pipe on-chain data from our decentralised data lake into any unique application, they usually power analytics dashboards or trading terminals.
+Here we are looking for the most extraordinary use of the Pipes SDK, the weirder the better!
+Qualification Requirements
+1. Your project must use the Pipes SDK in a meaningful way (minimum: at least one pipe integrated into your architecture).
+2. Provide a GitHub repository with source code and documentation.
+3. Include a demo video (max 5 minutes) showcasing the working prototype.
+4. Add a README explaining:
+- How you used the Pipes SDK
+- What problem your project solves
+- Any next steps or roadmap
+- Feedback from using the Pipes SDK (what was your experience? How was it?)
+5. Teams must submit by the official ETHGlobal Buenos Aires deadline.
+
+Links and Resources
+Pipes SDK
+https://github.com/subsquid-labs/pipes-sdk-docs
+↗
+🦑 Most Degen Use Case of Pipes SDK ⸺ $500
+The most speculative/ degenerative use case of the pipes SDK. Think of the most trench friendly application, how would data pipelines power this?
+Qualification Requirements
+1. Your project must use the Pipes SDK in a meaningful way (minimum: at least one pipe integrated into your architecture).
+2. Provide a GitHub repository with source code and documentation.
+3. Include a demo video (max 5 minutes) showcasing the working prototype.
+4. Add a README explaining:
+- How you used the Pipes SDK
+- What problem your project solves
+- Any next steps or roadmap
+- Feedback from using the Pipes SDK (what was your experience? How was it?)
+5. Teams must submit by the official ETHGlobal Buenos Aires deadline.
+
+Links and Resources
+Pipes SDK
+https://github.com/subsquid-labs/pipes-sdk-docs
+↗
+Resources
+Pipes SDK
+https://github.com/subsquid-labs/pipes-sdk-docs
+↗
+Jobs
+
+Technical DevRel
+sqd
+→
+Espresso logo
+Espresso
+$5,000
+
+espressosys.com
+espressosys
+Open page →
+About
+Espresso is the base layer for rollups, delivering fast, secure finality and reliable data availability. Developers building on rollups integrated with Espresso can rely on Espresso’s consensus to achieve instant, trust-minimized finality and build applications that react safely and quickly across chains.
+Espresso’s fast and secure finality unlocks a new era of cross-chain applications.
+Imagine using a bridge between two rollups — Rollup A and Rollup B. When sending funds from A (the source) to B (the destination), those funds must first be locked on A before being released on B.
+To ensure safety, you must be confident that the transaction on the source chain cannot be reverted. Traditionally, you’ve had three options:
+- Wait for finality on the parent chain — secure but slow (can take hours).
+- Skip waiting and assume the risk — fast but unsafe.
+- Use Espresso confirmations — fast and secure, powered by the Espresso Network’s consensus.
+Prizes
+🏆 Best Cross-Chain App Deployed on ANY Espresso-integrated chain ⸺ $5,000
+🥇
+1st place
+$2,500
+🥈
+2nd place
+$1,500
+🥉
+3rd place
+$1,000
+Best Cross-Chain Application deployed on ANY Espresso-integrated chain (Celo, ApeChain, Rari, Appchain, Molten, T3rn, NodeOps, Rufus, Huddle01, LogX).
+Qualification Requirements
+The application must:
+- Have a cross-chain interaction (from a source chain to a destination chain). You can use message protocols like Hyperlane to perform the cross-chain interaction.
+- The source chain must be an Espresso-integrated chain (ApeChain, Rari, Appchain, Molten, T3rn, NodeOps, Rufus, Huddle01, LogX, Celo).
+The application must:
+- The message protocol (for example, Hyperlane), must read from the Espresso's Caff Node RPC. This is just a normal RPC instrumented to read from the Espresso Network.
+
+Links and Resources
+What is Espresso?
+https://docs.espressosys.com/network
+↗
+Reading from the Espresso Network
+https://docs.espressosys.com/network/concepts/read-from-network
+↗
+Telegram - Hacker Support Chat
+https://tr.ee/U2WKWL
+↗
+Resources
+Telegram - Hacker Support Group
+https://tr.ee/U2WKWL
+↗
+XMTP logo
+XMTP
+$5,000
+
+xmtp.org
+xmtp_
+Open page →
+About
+XMTP is the largest & most secure decentralized messaging network. Powers a rapidly growing ecosystem of mini apps—where everything is a built-in chat experience from trading, prediction markets, event coordination, payments, and games.
+Examples & Ideas:
+- Bankr: The leading crypto AI agent and your new AI-assisted crypto banker on X + private terminal.
+- Squabble: Scrabble with real money bets https://squabble.lol
+- Bracky: Onchain sports predictions, right in your groupchat
+- QuestBoard: create mini group challenges (“run 5km”, “ship a side project”, “no phone for a day”) with points, leaderboards and real money bets.
+- Karma: tip or reward friends for good ideas, funny replies, or completing challenges, right inside chat.
+- Group Lottery: buy and share lottery ticket with your friends (tip: have a look at Megapot)
+If you need any help, questions or support, reach out to @humanagent.eth on Base
+-- extra points for meaningful contributions to our repo (issues, PRs, or docs improvements).
+Prizes
+📲 Best Miniapp in a Group Chat ⸺ $2,500
+build something your group of friends would actually use every day: to play, trade, vote, bet, share, or just have fun together.
+Qualification Requirements
+Although there’s no native chat integration for mini apps (like fetching current group members), teams can still deliver full group chat experiences by using a hybrid combination of agents to access context—for example, a chat‑resident agent paired with a backend coordinator—to infer group membership and state and orchestrate collaborative actions inside chat.
+
+Links and Resources
+Miniapps in Chat
+https://xmtp.org/miniapps
+↗
+Mini app in chat starter
+https://github.com/ephemeraHQ/xmtp-mini-app-example
+↗
+🤖 Best Use of the Agent SDK ⸺ $2,500
+Whether standalone or paired with a miniapp, show how agents can make chats smarter, more useful, or more fun.
+Qualification Requirements
+Agent demos must be built in the Base app and use at least one supported content type: attachments, transactions, or inline actions.
+
+Links and Resources
+Agent examples
+https://github.com/ephemeraHQ/xmtp-agent-examples
+↗
+Starter
+https://github.com/xmtp/agent-sdk-starter
+↗
+Resources
+XMTP Documentation
+https://docs.xmtp.org/agents/get-started/build-an-agent
+↗
+Agent examples
+https://github.com/ephemeraHQ/xmtp-agent-examples
+↗
+Workshop
+Watch Video →
+Sign up to get the latest news and updates on ETHGlobal
+Your email address
+
+Products
+Events
+Pragma
+Packs
+Plus New
+Faucet
+Legal
+Rules & Conduct
+Privacy Policy
+Company
+About
+Brand
+Careers Hiring
+© 2025 ETHGlobal. All rights reserved.
+

@@ -1,0 +1,33 @@
+# Environment variables (NEVER commit!)
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Hardhat
+cache/
+artifacts/
+typechain-types/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+coverage.json
