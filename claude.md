@@ -1,174 +1,74 @@
 # IRL Score Settlin (Tap Bet)
 
-NFC-triggered betting with social voting and smart contract settlement.
+NFC-triggered betting with social voting and smart contract settlement on Celo + Bluesky.
+
+---
+
+## Development Workflow (IMPORTANT)
+
+**Two codebases exist (for hackathon speed):**
+- `server.js` - Local Docker development (uses .env, loads ABI from file)
+- `lambda/index.mjs` - AWS Lambda deployment (hardcoded creds, inline ABI)
+
+**Workflow:**
+1. Develop/test locally with `docker-compose up --build` → hits `localhost:3001`
+2. When ready to deploy, sync changes from `server.js` → `lambda/index.mjs`
+3. Rebuild zip: `cd lambda && zip -r ../lambda.zip .`
+4. Upload `lambda.zip` to AWS Lambda console (drag and drop)
+
+**Note:** Lambda has hardcoded burner account creds - no AWS CLI/env setup needed.
 
 ## Core Flow
 ```
-NFC Tap → Form (statement + ENS + selfie) → Post to Bluesky/Farcaster
-→ T/F replies (24h or 20 votes) → Count votes → Resolve on-chain
-→ TRUE wins: tokens to challenger | FALSE wins: photo posted
+NFC Tap → Form (claim + ENS/wallet + selfie) → POST to backend
+→ Post claim to Bluesky → Create bet on-chain (Celo)
+→ Poll for T/F replies → Resolve on-chain
+→ TRUE wins: JakeTokens to challenger
+→ FALSE wins: photo posted to PDS as wrong.people.look.like.this record
 ```
 
 ---
 
-## To Do (Original)
-- [ ] find Celo token from workshop
-- [ ] validate: can we use it for a reward for the smart contract
-    - [ ] make more granular to-do for smart contract flow
-- [ ] validate: can we programmatically 1: create a post to farcaster 2: poll for T/F comments
-- [ ] personal website repo: repurpose selfie page for claim + wallet
-    - [ ] NFC point user to page
+## Current State
+- [x] TapBet contract deployed to Celo mainnet: `0x332F5eF8B056fcf8cb6973ca3D0173c43eA17f12`
+- [x] JakeToken (ERC20) on Celo: `0x4d14354151f845393ba3fa50436b3b6a36ffe762`
+- [x] Bluesky posting + polling for T/F replies
+- [x] ENS resolution (name.eth → address)
+- [x] Photo upload to PDS with custom lexicon `wrong.people.look.like.this`
+- [x] Lambda deployment working
+- [ ] Frontend integration
 
 ---
 
-## Target Prizes (3 categories)
+## Key Files
 
-### 1. Celo - Best MiniApp ($10k)
-**Prize**: Best MiniApp on Celo - $6k/$2.5k/$1.5k
-**Fit**: Already planned for Celo. Build as Farcaster MiniApp.
-**Requirements**:
-- Live Farcaster Mini App (wagmi wallet connector)
-- Onchain actions on Celo
-- Verified contract on Celo Mainnet
-- README with description, team, how Celo was used
+- `server.js` - Main backend (Docker/local)
+- `lambda/index.mjs` - Lambda version of backend
+- `TapBet.abi.json` - Contract ABI
+- `contracts/TapBet.sol` - Smart contract source
 
-**Integration**:
-- Deploy TapBet.sol to Celo mainnet
-- Use jakeToken (ERC20) on Celo for rewards
-- Farcaster Mini App for bet creation UI
+## Bluesky/ATProto Details
 
----
+- PDS: `https://pds.jakesimonds.com`
+- Handle: `babysfirst.pds.jakesimonds.com`
+- Custom lexicon: `wrong.people.look.like.this` (for storing photos on FALSE)
 
-### 2. ENS - Most Creative Use ($10k)
-**Prize**: Most creative use of ENS - $3.5k/$2k/$1.5k×3
-**Fit**: Already using ENS for challenger identification!
-**Requirements**:
-- Obvious ENS improvement (not afterthought)
-- Working demo (not hard-coded)
-- Video + GitHub + open source
+## API Endpoint
 
-**Integration**:
-- Resolve challenger ENS → address for token transfer
-- Display ENS avatar in bet UI
-- ENS name in social posts ("challenged by vitalik.eth")
-- Optional: Mint ENS subname for bet (bet-1234.tapbet.eth)
-
----
-
-### 3. Filecoin - Best dApps powered by Filecoin Onchain Cloud ($10k)
-**Prize**: Best dApps - $5k/$3.5k/$1.5k
-**Fit**: Perfect for photo storage!
-**Requirements**:
-- Use Synapse SDK or Filecoin Pin meaningfully
-- Working demo (frontend or CLI)
-- Open source GitHub
-
-**Integration**:
-- Store photos via Synapse SDK
-- Retrieve photo URL for posting when FALSE wins
-- Permanent, decentralized archive
-
----
-
-## Alternative/Bonus Prize Ideas
-
-### XMTP - Best Miniapp in Group Chat ($2.5k)
-**Interesting idea**: Token-gated group chat for bettors
-- Win a bet → get access to winners chat
-- Lose a bet → losers chat where losers post apologies
-- Could be lightweight addition if time permits
-
-### World - Best Mini App ($17k)
-- Different chain (World Chain, not Celo)
-- Bigger prize but more integration work
-- "Must not be gambling or chance based" - we're voting, not gambling!
-
-### The Graph - Best Use for AI ($2k)
-- Index bet events for analytics
-
----
-
-## Hosting Photos On-Chain
-
-**Filecoin** (Synapse SDK) - Best option
-- Decentralized storage for photos
-- Serve via IPFS gateway URLs
-- Permanent storage
-
-No direct "host static site on-chain" sponsor, but Filecoin + IPFS gateway = effectively permanent hosting.
-
----
-
-## Implementation Priority
-
-### Phase 1: Core Contract (Celo)
-- [ ] Deploy TapBet.sol to Celo testnet
-- [ ] Deploy/find jakeToken (ERC20)
-- [ ] Test bet creation + resolution
-
-### Phase 2: ENS Integration
-- [ ] Add ENS resolution in frontend form
-- [ ] Resolve ENS → address before createBet()
-- [ ] Fetch ENS avatar for display
-- [ ] Include ENS name in social posts
-
-### Phase 3: Filecoin Photo Storage
-- [ ] Integrate Synapse SDK
-- [ ] Upload photo on bet creation
-- [ ] Store CID/hash in contract
-- [ ] Retrieve for PhotoTime event
-
-### Phase 4: Farcaster MiniApp
-- [ ] Adapt mini-app for Farcaster frames
-- [ ] wagmi wallet connector
-- [ ] Deploy
-
-### Phase 5: Social Posting
-- [ ] Bluesky + Farcaster posting
-- [ ] Vote counting automation
-- [ ] Photo posting on FALSE wins
-
----
-
-## Existing Code (from research/tap-bet)
-
-```
-tap-bet/
-├── index.html              # NFC landing page - bet creation form
-├── mini-app/
-│   └── index.html          # Farcaster Mini App
-├── social-poster.js        # Bluesky + Farcaster posting & vote counting
-├── resolve-bet.js          # Resolution script
-├── contracts/
-│   ├── TapBet.sol          # Smart contract
-│   └── deploy.js           # Deployment script
-└── README.md
+**POST /bet**
+```json
+{
+  "claim": "I can do 10 pushups",
+  "walletAddress": "0x123..." or "name.eth",
+  "photo": "data:image/jpeg;base64,..."
+}
 ```
 
----
-
-## Smart Contract Flow (from original notes)
-
+**Response:**
+```json
+{
+  "success": true,
+  "postUrl": "https://bsky.app/profile/.../post/...",
+  "message": "Bet posted!"
+}
 ```
-executeSmartContract(claim, wallet, blob/photo):
-    - post claim to farcaster via API
-    while commentsOnPost != T | F and !Timeout:
-        checkForComments
-    if commentsOnPost = T:
-        return send JakeTokens
-    if commentsOnPost = F:
-        return post blob/photo
-    if Timeout:
-        return post It timedout!
-```
-
----
-
-## Prize Synergy
-
-All three prizes complement each other naturally:
-1. **Celo** = settlement layer (tokens + contract)
-2. **ENS** = identity layer (human-readable names)
-3. **Filecoin** = storage layer (photos)
-
-This is legitimate multi-sponsor integration, not bolted-on afterthoughts.

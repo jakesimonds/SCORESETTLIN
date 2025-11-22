@@ -1,14 +1,8 @@
 version: '3.8'
-
 services:
   score-settlin:
     build: .
     ports:
       - "3001:3001"
-    environment:
-      - PORT=3001
-      - PRIVATE_KEY=${PRIVATE_KEY}
-      - TAPBET_CONTRACT_ADDRESS=${TAPBET_CONTRACT_ADDRESS}
-      - BLUESKY_HANDLE=${BLUESKY_HANDLE}
-      - BLUESKY_APP_PASSWORD=${BLUESKY_APP_PASSWORD}
-    restart: unless-stopped
+    env_file:
+      - .env

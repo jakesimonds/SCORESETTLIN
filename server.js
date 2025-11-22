@@ -243,11 +243,12 @@ async function createWrongPeopleRecord(claim, blobData, rkey) {
 // BET FLOW (runs in background after response)
 // =============================================================================
 
-async function runBetFlow(claim, walletAddress, photo, postUri, betId) {
+async function runBetFlow(claim, walletAddress, photo, postUri, betId, displayName) {
   const provider = new ethers.JsonRpcProvider(RPC);
   const wallet = new ethers.Wallet(PRIVATE_KEY, provider);
   const tapBet = new ethers.Contract(TAPBET_ADDRESS, tapBetAbi, wallet);
-  const shortAddr = `${walletAddress.slice(0, 6)}...${walletAddress.slice(-4)}`;
+  // Use displayName (ENS or shortened address) for Bluesky posts
+  const shortAddr = displayName;
   const sess = await login();
 
   console.log(`[${betId.slice(0, 10)}] Starting bet flow...`);
@@ -351,12 +352,12 @@ async function runBetFlow(claim, walletAddress, photo, postUri, betId) {
         replyText = `Error case\n\n${shortAddr} wins!\n\n${resolveCeloscanUrl}`;
       }
     } else {
-      // FALSE - include link to wrong.people record on pdsls.dev
+      // FALSE - include link to wrong.people record on pdsls.dev AND the resolve tx
       if (wrongPeopleUri) {
         const pdslsUrl = `https://pdsls.dev/${wrongPeopleUri}`;
-        replyText = `wrong.people.look.like.this: ${pdslsUrl}\n`;
+        replyText = `wrong.people.look.like.this: ${pdslsUrl}\n\nContract resolved: ${resolveCeloscanUrl}`;
       } else {
-        replyText = `something went wrong${shortAddr}!\n\n${resolveCeloscanUrl}`;
+        replyText = `something went wrong ${shortAddr}!\n\n${resolveCeloscanUrl}`;
       }
     }
 
@@ -374,18 +375,36 @@ async function runBetFlow(claim, walletAddress, photo, postUri, betId) {
 // =============================================================================
 
 async function handleBetRequest(body) {
-  const { claim, walletAddress, photo } = body;
+  const { claim, walletAddress: inputAddress, photo } = body;
 
-  // Validate
+  // Validate claim
   if (!claim || typeof claim !== 'string') {
     return { success: false, error: 'Missing or invalid claim' };
   }
-  if (!walletAddress || !ethers.isAddress(walletAddress)) {
+
+  // Resolve ENS name or validate address
+  let walletAddress = inputAddress;
+  if (inputAddress && inputAddress.endsWith('.eth')) {
+    try {
+      console.log(`Resolving ENS name: ${inputAddress}`);
+      const ethProvider = new ethers.JsonRpcProvider('https://eth.llamarpc.com');
+      const resolved = await ethProvider.resolveName(inputAddress);
+      if (!resolved) {
+        return { success: false, error: `Could not resolve ENS name: ${inputAddress}` };
+      }
+      walletAddress = resolved;
+      console.log(`ENS resolved: ${inputAddress} -> ${walletAddress}`);
+    } catch (e) {
+      return { success: false, error: `ENS resolution failed: ${e.message}` };
+    }
+  } else if (!inputAddress || !ethers.isAddress(inputAddress)) {
     return { success: false, error: 'Invalid wallet address' };
   }
-  // photo is optional but recommended
 
-  const shortAddr = `${walletAddress.slice(0, 6)}...${walletAddress.slice(-4)}`;
+  // Use ENS name for display if provided, otherwise shortened address
+  const displayName = inputAddress.endsWith('.eth')
+    ? inputAddress
+    : `${walletAddress.slice(0, 6)}...${walletAddress.slice(-4)}`;
 
   // Step 1: Post to Bluesky (do this first to get URL for response)
   let postUri, postUrl;
@@ -404,10 +423,10 @@ async function handleBetRequest(body) {
   // Generate betId
   const betId = ethers.keccak256(ethers.toUtf8Bytes(postUri));
 
-  console.log(`New bet: ${betId.slice(0, 10)}... | ${shortAddr} | "${claim.slice(0, 30)}..."`);
+  console.log(`New bet: ${betId.slice(0, 10)}... | ${displayName} | "${claim.slice(0, 30)}..."`);
 
   // Start bet flow in background (don't await)
-  runBetFlow(claim, walletAddress, photo, postUri, betId).catch(e => {
+  runBetFlow(claim, walletAddress, photo, postUri, betId, displayName).catch(e => {
     console.error(`Bet flow error [${betId.slice(0, 10)}]:`, e.message);
   });
 
